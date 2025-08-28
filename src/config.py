@@ -39,21 +39,16 @@ MAX_SUMMARY_LEN  = int(os.getenv("MAX_SUMMARY_LEN", "128"))
 NUM_EPOCHS                  = int(os.getenv("NUM_EPOCHS", "2"))
 TRAIN_BATCH_SIZE            = int(os.getenv("TRAIN_BATCH_SIZE", "4"))
 EVAL_BATCH_SIZE             = int(os.getenv("EVAL_BATCH_SIZE", "4"))
-GRADIENT_ACCUMULATION_STEPS = int(os.getenv("GRAD_ACCUM_STEPS", "4"))
-LEARNING_RATE               = float(os.getenv("LEARNING_RATE", "5e-5"))
+LEARNING_RATE               = float(os.getenv("LEARNING_RATE", "2e-5"))
 WEIGHT_DECAY                = float(os.getenv("WEIGHT_DECAY", "0.01"))
-WARMUP_RATIO                = float(os.getenv("WARMUP_RATIO", "0.1"))
-
-LOGGING_STEPS     = int(os.getenv("LOGGING_STEPS", "50"))
-SAVE_TOTAL_LIMIT  = int(os.getenv("SAVE_TOTAL_LIMIT", "2"))
-EVAL_STRATEGY     = os.getenv("EVALUATION_STRATEGY", "epoch")  # "epoch" or "steps"
-SAVE_STRATEGY     = os.getenv("SAVE_STRATEGY", "epoch")        # "epoch" or "steps"
-SEED              = int(os.getenv("SEED", "42"))
+SAVE_TOTAL_LIMIT            = int(os.getenv("SAVE_TOTAL_LIMIT", "2"))
+LOGGING_STEPS               = int(os.getenv("LOGGING_STEPS", "50"))
+EVAL_STRATEGY               = os.getenv("EVALUATION_STRATEGY", "epoch")
 
 # ---- Generation (inference) ----
-NUM_BEAMS              = int(os.getenv("NUM_BEAMS", "4"))
+NUM_BEAMS              = int(os.getenv("NUM_BEAMS", "5"))
 NO_REPEAT_NGRAM_SIZE   = int(os.getenv("NO_REPEAT_NGRAM_SIZE", "3"))
-REPETITION_PENALTY     = float(os.getenv("REPETITION_PENALTY", "1.2"))
+REPETITION_PENALTY     = float(os.getenv("REPETITION_PENALTY", "2.5"))
 LENGTH_PENALTY         = float(os.getenv("LENGTH_PENALTY", "1.0"))
 EARLY_STOPPING         = os.getenv("EARLY_STOPPING", "true").lower() == "true"
 
