@@ -12,6 +12,13 @@ Typical use:
     tokenized = preprocess.tokenize_dataset_dict(ds)
     collator = preprocess.make_data_collator()
 """
+import os
+# Tell Transformers to NOT use TF/Flax at all
+os.environ["USE_TF"] = "0"
+os.environ["USE_FLAX"] = "0"
+# (Keep these too; they help on newer versions)
+os.environ["TRANSFORMERS_NO_TF"] = "1"
+os.environ["TRANSFORMERS_NO_FLAX"] = "1"
 
 from typing import Dict, List, Any, Optional
 from datasets import DatasetDict
