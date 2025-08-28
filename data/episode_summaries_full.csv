@@ -1,0 +1,632 @@
+episode_id,url,title,summary
+1,https://www.thisamericanlife.org/1/new-beginnings,New Beginnings,Our very first broadcast.
+2,https://www.thisamericanlife.org/2/small-scale-sin,Small Scale Sin,Three teenage boys tell us about their forays into low-level credit card hacking.
+3,https://www.thisamericanlife.org/3/poultry-slam-1995,Poultry Slam 1995,"Decrying the wonders of turkeys, chickens, and other fowl."
+4,https://www.thisamericanlife.org/4/vacations,Vacations,Vacations gone awry—or perhaps vacations that never should have happened.
+5,https://www.thisamericanlife.org/5/anger-and-forgiveness,Anger and Forgiveness,"Stories that reveal the societal ""trend"" toward anger and away from genuine forgiveness."
+6,https://www.thisamericanlife.org/6/christmas,Christmas,A Christmas radio play by David Sedaris.
+7,https://www.thisamericanlife.org/7/quitting,Quitting,People who quit everything in their lives that they hated.
+8,https://www.thisamericanlife.org/8/new-year,New Year,Reflecting back on 1995.
+9,https://www.thisamericanlife.org/9/julia-sweeney,Julia Sweeney,Julia Sweeney and her brother found out they each had cancer six months apart.
+10,https://www.thisamericanlife.org/10/double-lives,Double Lives,"People living their lives, just like the rest of us. Plus an extra life."
+11,https://www.thisamericanlife.org/11/enemies,Enemies,A friendship between two young boys that was destroyed through the manipulative acts of one of them.
+12,https://www.thisamericanlife.org/12/animals,Animals,"The animalness of animals, and the irreducible ways in which they are not human."
+13,https://www.thisamericanlife.org/13/love,Love,The dream of true love and the difficulties with achieving and maintaining that dream.
+14,https://www.thisamericanlife.org/14/accidental-documentaries,Accidental Documentaries,Stories made from old recordings found in attics and thrift stores.
+15,https://www.thisamericanlife.org/15/dawn,Dawn,Jack Hitt stumbles onto an epic story of the Old South and changing cultural norms in America.
+16,https://www.thisamericanlife.org/16/economy,Economy,"Politics, the economy, and the big picture."
+17,https://www.thisamericanlife.org/17/name-change-no-theme,Name Change / No Theme,Our first show as This American Life.
+18,https://www.thisamericanlife.org/18/liars,Liars,A girl who adored her father tries to figure out what to think after he takes some of her college money and lies to her about it.
+19,https://www.thisamericanlife.org/19/rich-guys,Rich Guys,"Men who had comfortable, decent lives, yet decided to do something wild and eccentric."
+20,https://www.thisamericanlife.org/20/from-a-distance,From A Distance,"Stories of admiring someone from afar, and trying to get closer to them."
+21,https://www.thisamericanlife.org/21/factions,Factions,"Friends get together to start a business, start a church, do political action together. And after a while, they start fighting and split up."
+22,https://www.thisamericanlife.org/22/adult-children,Adult Children,Stories of the difficult relationships between parents and their grown children.
+23,https://www.thisamericanlife.org/23/drama-bug,Drama Bug,Stories of the people who fall for a life in the theater.
+24,https://www.thisamericanlife.org/24/teenaged-girls,Teenaged Girls,Girls who have to figure out how they're going to act when the ground rules are constantly shifting.
+25,https://www.thisamericanlife.org/25/basketball,Basketball,The Chicago Bulls and their grip on Chicagoans' hearts and lives during the NBA playoffs.
+26,https://www.thisamericanlife.org/26/fathers-day-96,Father's Day '96,"Ira's own father, Barry Glass, co-hosts this special Father's Day show."
+27,https://www.thisamericanlife.org/27/the-cruelty-of-children,The Cruelty of Children,A story of youthful backstabbing by David Sedaris.
+28,https://www.thisamericanlife.org/28/detectives,Detectives,David Sedaris recalls the days when his mother and sister played armchair detective.
+29,https://www.thisamericanlife.org/29/bob-dole,Bob Dole,Unusual perspectives on the presumptive Republican nominee.
+30,https://www.thisamericanlife.org/30/obsession,Obsession,What happens when a little idea starts to control you.
+31,https://www.thisamericanlife.org/31/when-you-talk-about-music,When You Talk About Music,Stories of people whose lives are transformed by music.
+32,https://www.thisamericanlife.org/32/republican-convention,Republican Convention,Unusual stories about day-to-day life at the Republican Convention.
+33,https://www.thisamericanlife.org/33/a-night-at-the-wiener-circle,A Night at the Wiener Circle,Ira Glass spends a night at one of the most boisterous hot dog stands in the nation: Chicago's Wiener Circle.
+34,https://www.thisamericanlife.org/34/democratic-convention,Democratic Convention,Unusual stories from the 1996 Democratic Convention in Chicago.
+35,https://www.thisamericanlife.org/35/fall-clearance-sale,Fall Clearance Sale,"Stories that haven't fit into any of our regular ""theme"" shows."
+36,https://www.thisamericanlife.org/36/letters,Letters,"We took out advertisements in Chicago inviting people to share letters they've received, sent, or found."
+37,https://www.thisamericanlife.org/37/the-job-that-takes-over-your-life,The Job That Takes Over Your Life,"Scott Carrier got a job interviewing schizophrenics. After awhile, he began to wonder if he was a schizophrenic himself."
+38,https://www.thisamericanlife.org/38/simulated-worlds,Simulated Worlds,"Civil War reenactments, wax museums, simulated coal mines, fake ethnic restaurants, an ersatz Medieval castle, and other re-created worlds that thrive all across America."
+39,https://www.thisamericanlife.org/39/halloween,Halloween,"Stories of things that are supposed to be scary, but aren't."
+40,https://www.thisamericanlife.org/40/lessons,Lessons,Spalding Gray on finding the zen of skiing.
+41,https://www.thisamericanlife.org/41/politics,Politics,Stories of the election you can't hear anywhere else.
+42,https://www.thisamericanlife.org/42/get-over-it,Get Over It!,Trying to forget the past and move on.
+43,https://www.thisamericanlife.org/43/faustian-bargains,Faustian Bargains,People who made a deal with the devil.
+44,https://www.thisamericanlife.org/44/poultry-slam-1996,Poultry Slam 1996,"Stories about turkeys, chickens, ducks, and fowl of all kinds."
+45,https://www.thisamericanlife.org/45/media-fringe,Media Fringe,People struggling at the fringes of our nation's infotainment industry.
+46,https://www.thisamericanlife.org/46/sissies,Sissies,"A family where the father was one kind of sissy and the son was another kind, and how the family was destroyed despite the fact that no one wanted it to be."
+47,https://www.thisamericanlife.org/47/christmas-and-commerce,Christmas and Commerce,"The intersection of Christmas and retail, including David Sedaris's ""Santaland Diaries."""
+48,https://www.thisamericanlife.org/48/justice,Justice,A portrait of Americans at the International Tribunal.
+49,https://www.thisamericanlife.org/49/animals,Animals,"Stories about the animalness of animals, the irreducible ways in which they are not human."
+50,https://www.thisamericanlife.org/50/shoulda-been-dead,Shoulda Been Dead,"A man decides to live as if he'll die in six months. That, and other stories of starting life over."
+51,https://www.thisamericanlife.org/51/animals-die-people-ponder,"Animals Die, People Ponder",Stories of people who handle dead animals. (Don't worry—it's not as gross as it sounds.) Featuring a story by George Saunders.
+52,https://www.thisamericanlife.org/52/edge-of-sanity,Edge of Sanity,Stories about the border between mental health and mental illness.
+53,https://www.thisamericanlife.org/53/valentines-day-97,Valentine’s Day ‘97,Stories about our parents falling in love.
+54,https://www.thisamericanlife.org/54/sinatra,Sinatra,"Stories, tributes, and attempts to understand the Chairman of the Board."
+55,https://www.thisamericanlife.org/55/three-women-and-the-sex-industry,Three Women and the Sex Industry,Radio producer Sandy Tolan was supposed to do a documentary about strippers with an aspiring writer—and stripper—named Susan. But then Susan disappeared.
+56,https://www.thisamericanlife.org/56/name-change,Name Change,Name changes are particularly American stories: they're the dream of starting over with a clean slate.
+57,https://www.thisamericanlife.org/57/delivery,Delivery,"Stories about the delivery business and the people in it: UPS men, bike messengers, FedEx dispatchers."
+58,https://www.thisamericanlife.org/58/small-towns,Small Towns,"The claustrophobia, freedom, and yearning people feel in small towns."
+59,https://www.thisamericanlife.org/59/fire,Fire,"Stories about people who are not afraid of fire, though perhaps they should be."
+60,https://www.thisamericanlife.org/60/business-of-death,Business of Death,"Stories of people for whom death is a job—undertakers, homicide detectives, slaughterhouse workers, and others."
+61,https://www.thisamericanlife.org/61/fiasco,Fiasco! (1997),Stories of when things go wrong. Really wrong.
+62,https://www.thisamericanlife.org/62/something-for-nothing,Something for Nothing,Twenty-four people put one hand on a Hardbody pickup truck and wait...until only one person is left standing. Plus other stories of people trying to get rich quick.
+63,https://www.thisamericanlife.org/63/one-thing,One Thing,"A man tries to run for President as a utopian nudist, and other stories of people whose lives are organized around one thing."
+64,https://www.thisamericanlife.org/64/summer,Summer,"We want summer to be this wonderful break, but so often it fails to deliver."
+65,https://www.thisamericanlife.org/65/whos-canadian,Who's Canadian?,Canadians claim they're no different from red-blooded Americans. We put their position to the test.
+66,https://www.thisamericanlife.org/66/tales-from-the-net,Tales from the Net,"Listeners sent us samples of what they're finding on the internet, including postings from Usenet groups, favorite web pages, and their own email."
+67,https://www.thisamericanlife.org/67/your-dream-my-nightmare,"Your Dream, My Nightmare",An interracial couple takes a plantation tour. And other stories in which someone's dream is someone else's nightmare.
+68,https://www.thisamericanlife.org/68/lincolns-second-inaugural,Lincoln's Second Inaugural,"We look at the legacy of the most moving, poetic inaugural speech in American history."
+69,https://www.thisamericanlife.org/69/dream-house,Dream House,"Parents moving the family to some new place, hoping it works out for the kids."
+70,https://www.thisamericanlife.org/70/other-peoples-mail,Other People's Mail,"Four stories of people who read other people's mail, and what happens to them once they get caught up in these other lives."
+71,https://www.thisamericanlife.org/71/defying-sickness,Defying Sickness,A man goes on a last big trip with his father who has Alzheimer's.
+72,https://www.thisamericanlife.org/72/trek,Trek,"The story of two Americans—one white, one black—who go to South Africa and have very different opinions about what they find."
+73,https://www.thisamericanlife.org/73/blame-it-on-art,Blame It on Art,"Mona LisaThe darker side of the art world: petty jealousies, competitiveness, failure."
+74,https://www.thisamericanlife.org/74/conventions,Conventions,"What happens when people with a common interest gather in fluorescent-lit halls? Sometimes they drive each other crazy, sometimes they fall in love."
+75,https://www.thisamericanlife.org/75/kindness-of-strangers,Kindness of Strangers,"A locksmith tells the story of an act of kindness he committed, hoping for a small reward. That, and other stories of kindness in New York City."
+76,https://www.thisamericanlife.org/76/mob,Mob,"The mob as portrayed in movies, and as it is in real life. And its hold over us."
+77,https://www.thisamericanlife.org/77/pray,Pray,Can the secular world and the religious world understand each other?
+78,https://www.thisamericanlife.org/78/how-bad-is-bad,How Bad Is Bad?,Ira Glass talks to three teenage boys who buy computer equipment using stolen credit card numbers. And other stories.
+79,https://www.thisamericanlife.org/79/stuck-in-the-wrong-decade,Stuck in the Wrong Decade,"People stuck in the wrong decade, or simply carrying a lot of the props from another decade."
+80,https://www.thisamericanlife.org/80/running-after-antelope,Running After Antelope,Scott Carrier with the latest installment in his 12-year quest to chase down and catch an antelope.
+81,https://www.thisamericanlife.org/81/guns,Guns,"Americans who love their guns, and the Americans who love them."
+82,https://www.thisamericanlife.org/82/haunted,Haunted,"Stories of people who are haunted, not by ghosts or phantoms, but by other people."
+83,https://www.thisamericanlife.org/83/one-of-us,One of Us,"Stories of outsiders who want to be insiders, and vice versa."
+84,https://www.thisamericanlife.org/84/harold,Harold,The story of Harold Washington and the white backlash that was set off when he became Chicago's first black mayor.
+85,https://www.thisamericanlife.org/85/poultry-slam-1997,Poultry Slam 1997,Chickens and turkeys are a mirror of ourselves.
+86,https://www.thisamericanlife.org/86/how-to-take-money-from-strangers,How to Take Money from Strangers,A con man who's so good he's thanked.
+87,https://www.thisamericanlife.org/87/a-very-special-sedaris-christmas,A Very Special Sedaris Christmas,Holiday stories from David Sedaris and Julia Sweeney.
+88,https://www.thisamericanlife.org/88/numbers,Numbers,People trying to use numbers to describe things that should not be quantified.
+89,https://www.thisamericanlife.org/89/sibling-rivalry,Sibling Rivalry,Stories about people who are destined to fight: brothers and sisters.
+90,https://www.thisamericanlife.org/90/telephone,Telephone,"The story of a teenager, illegal drug use, lying, stealing, and a kid's life changed completely when he heard how he sounded on the phone."
+91,https://www.thisamericanlife.org/91/escape-the-box,Escape the Box,"Stories of people trying to escape the box of their own lives, and create new lives."
+92,https://www.thisamericanlife.org/92/leave-the-mask-on,Leave the Mask On,When someone tries to tell you a little bit more about themselves than you'd really rather know.
+93,https://www.thisamericanlife.org/93/valentines-day-98,Valentine’s Day ’98,Stories about couples that all take place decades after that moment their eyes first meet.
+94,https://www.thisamericanlife.org/94/how-to,How To,Ira teaches Sarah Vowell how to drive with some advice from the hosts of Car Talk.
+95,https://www.thisamericanlife.org/95/monogamy,Monogamy,"Stories of people struggling to redefine monogamy, to stay monogamous, and what we should make of these ad hoc experiments in everyday life."
+96,https://www.thisamericanlife.org/96/pinned-by-history,Pinned by History,"Stories of people who were lifted out of everyday life, thrown into much bigger events, and how that made sense of what they did years after the fact."
+97,https://www.thisamericanlife.org/97/death-to-wacky,Death to Wacky,"David Sedaris tells true stories of photographers who try to take pictures of him which will make him seem ""wacky."" That, and other stories of wackiness."
+98,https://www.thisamericanlife.org/98/throwing-the-first-punch,Throwing the First Punch,"Stories about what it means to be a person who throws the first punch, and how hard it is to give up."
+99,https://www.thisamericanlife.org/99/i-enjoy-being-a-girl-sort-of,"I Enjoy Being A Girl, Sort Of",Variations on what it means to be a girl and what it means to be a woman.
+100,https://www.thisamericanlife.org/100/radio,Radio,"A radio show about what makes radio so great, and what makes it so terrible."
+101,https://www.thisamericanlife.org/101/niagara,Niagara,The story of a town that started with something huge—the falls—and built nothing lasting from it.
+102,https://www.thisamericanlife.org/102/road-trip,Road Trip!,"With so many songs, movies, and books about the joy of the open road, it's hard to take just a normal road trip without huge expectations."
+103,https://www.thisamericanlife.org/103/scenes-from-a-transplant,Scenes from A Transplant,"An NPR reporter leaves her three-year-old son and heads to Omaha—for cancer treatment, and a last chance to save her life."
+104,https://www.thisamericanlife.org/104/music-lessons,Music Lessons,"David Sedaris and Sarah Vowell on what's frustrating about music lessons, what's miraculous about them, and what they actually teach us."
+105,https://www.thisamericanlife.org/105/take-a-negro-home,Take A Negro Home,"Two stories of people who try to cross the color line, and why it's still so hard."
+106,https://www.thisamericanlife.org/106/fathers-day-98,Father’s Day ‘98,Stories in which fathers and their kids sit down and try to have an honest moment together.
+107,https://www.thisamericanlife.org/107/trail-of-tears,Trail of Tears (1998),Sarah Vowell re-traces the route her Cherokee ancestors took when expelled from their own land by President Andrew Jackson.
+108,https://www.thisamericanlife.org/108/truth-and-lies-at-age-ten,Truth and Lies at Age Ten,A woman who'd been diagnosed with cystic fibrosis talks about the lies she told herself as a child.
+109,https://www.thisamericanlife.org/109/notes-on-camp,Notes on Camp,We attempt to bridge the gap of misunderstanding between camp people and non-camp people.
+110,https://www.thisamericanlife.org/110/mapping,Mapping,The world redrawn by the five senses.
+111,https://www.thisamericanlife.org/111/adventures-in-the-simple-life,Adventures in the Simple Life,I thought this was supposed to be easy.
+112,https://www.thisamericanlife.org/112/ladies-and-germs,Ladies and Germs,How irrational fear of germs means that you aren't going to get good apple cider in your local supermarket this fall.
+113,https://www.thisamericanlife.org/113/windfall,Windfall,What happens when you suddenly strike it rich?
+114,https://www.thisamericanlife.org/114/last-words,Last Words,Stories of people's last words before death.
+115,https://www.thisamericanlife.org/115/first-day,First Day,"A rookie cop and a squirrel, and other stories of first days on the job."
+116,https://www.thisamericanlife.org/116/poultry-slam-1998,Poultry Slam 1998,"Our annual program about turkeys, chickens, and fowl of all types."
+117,https://www.thisamericanlife.org/117/you-gonna-eat-that,You Gonna Eat That?,The family table is stage on which many family dramas are played out.
+118,https://www.thisamericanlife.org/118/what-you-lookin-at,What You Lookin’ At?,"Stories about seeing and being seen, taped before a live audience in Town Hall in New York City."
+119,https://www.thisamericanlife.org/119/lockup,Lockup,"Stories of the lives of prisoners in the United States, and the lives of their families."
+120,https://www.thisamericanlife.org/120/be-careful-who-you-pretend-to-be,Be Careful Who You Pretend to Be,"Three stories of people pretending to be something they're not, and what happens to them."
+121,https://www.thisamericanlife.org/121/twentieth-century-man,Twentieth Century Man,What happens if you're too good at throwing everything out and starting over?
+122,https://www.thisamericanlife.org/122/valentines-day-99,Valentine’s Day ’99,Stories of impossible love and heartbreak.
+123,https://www.thisamericanlife.org/123/high-cost-of-living,High Cost of Living,Stories of people who choose not to live every moment to the fullest or smell the roses.
+124,https://www.thisamericanlife.org/124/welcome-to-america,Welcome to America,Stories of people moving to this country: what they see and hear that those of us who were born here don't.
+125,https://www.thisamericanlife.org/125/apocalypse,Apocalypse,Fundamentalist Christians and Orthodox Jews are combining forces to breed a perfect red cow that could bring about the end of the world.
+126,https://www.thisamericanlife.org/126/do-gooders,Do-Gooders,"Two do-gooders try to change things in their hometown for the better. But the more they try, the more people resent them."
+127,https://www.thisamericanlife.org/127/pimp-anthropology,Pimp Anthropology,"A former pimp tells how he and three childhood friends became pimps in the 1970s in Oakland, California."
+128,https://www.thisamericanlife.org/128/four-corners,Four Corners,We try to tell the story of life in America through portraits of life in four different states across the nation.
+129,https://www.thisamericanlife.org/129/advice,Advice,What if you asked people for advice and actually took ALL of the advice that everyone gave you? Sarah Vowell tried exactly that.
+130,https://www.thisamericanlife.org/130/away-from-home,Away From Home,Stories of people going home to places they've never been before.
+131,https://www.thisamericanlife.org/131/the-kids-are-alright,The Kids Are Alright,"Stories in which young people take matters into their own hands, broadcast for the tenth anniversary of the crackdown at Tiananmen Square."
+132,https://www.thisamericanlife.org/132/fathers-day-99,Father’s Day ‘99,"Photographer Joel Meyerowitz goes on a last big trip with his father, who has Alzheimer's, and his son."
+133,https://www.thisamericanlife.org/133/sales,Sales,"We accompany a Hollywood screenwriter as he tries to sell a movie idea and find ourselves asking, is the art of commerce better than the art of art?"
+134,https://www.thisamericanlife.org/134/we-didnt,We Didn’t,"It turns out that not falling in love, not doing our jobs, not spending time with our families is every bit as vivid and complicated an experience as doing something."
+135,https://www.thisamericanlife.org/135/allure-of-crime,Allure of Crime,"Through our crimes, we express who we are."
+136,https://www.thisamericanlife.org/136/you-are-here,You Are Here,"Three stories, three people, and three sets of maps."
+137,https://www.thisamericanlife.org/137/the-book-that-changed-your-life,The Book That Changed Your Life,We want to believe our lives can be changed by a set of ideas contained in a book.
+138,https://www.thisamericanlife.org/138/the-real-thing,The Real Thing,"Stories of people drawn to some idea, some picture, some ""thing"" that they just want to be."
+139,https://www.thisamericanlife.org/139/ghosts-of-elections-past,Ghosts of Elections Past,Stories designed to provide some small sense of hope about American politics.
+140,https://www.thisamericanlife.org/140/family-business,Family Business,What happens when the tension of family dynamics collides with the pressure of capitalist market forces.
+141,https://www.thisamericanlife.org/141/invisible-worlds,Invisible Worlds,Stories of people who are trying to make invisible worlds visible.
+142,https://www.thisamericanlife.org/142/barbara,Barbara,We hear the story of one African-American single mother who recorded her family's life over the course of seven months.
+143,https://www.thisamericanlife.org/143/sentencing,Sentencing,Have mandatory minimum sentences gone too far?
+144,https://www.thisamericanlife.org/144/where-words-fail,Where Words Fail,People struggle to invent words adequate to cope with death.
+145,https://www.thisamericanlife.org/145/poultry-slam-1999,Poultry Slam 1999,"Our annual program about turkeys, chickens, fowl of all types, and their mysterious hold over our imaginations."
+146,https://www.thisamericanlife.org/146/urban-nature,Urban Nature,"David Rakoff visits Iceland, where the government is careful not to disturb certain boulders because some people believe that elves live there."
+147,https://www.thisamericanlife.org/147/a-teenagers-guide-to-god,A Teenager's Guide to God,Oh faithless and perverse generation? How long shall I be with you? How long shall I bear with you?—Matthew 17.
+148,https://www.thisamericanlife.org/148/the-angels-wanna-wear-my-red-suit,The Angels Wanna Wear My Red Suit,"The many, many different versions of Santa Claus."
+149,https://www.thisamericanlife.org/149/bedside-diplomacy,Bedside Diplomacy,"In the hospital, we're in a place that has its own rules and its own language and its own customs."
+150,https://www.thisamericanlife.org/150/kids-as-adults,Kids As Adults,Stories of kids trying to act like adults—some by choice—some because they're forced to.
+151,https://www.thisamericanlife.org/151/primary,Primary,Stories from the New Hampshire primary. We hear from voters who've found candidates they love. And we hear what those voters are seeing that the rest of us aren't.
+152,https://www.thisamericanlife.org/152/crush,Crush,"What if you held onto a high-school crush? Under what conditions would it never go away? Tobias Wolff reads a short story called ""Kiss."""
+153,https://www.thisamericanlife.org/153/dolls,Dolls,"The story of the book The Lonely Doll and its author, and how the author's life came to resemble something from her book."
+154,https://www.thisamericanlife.org/154/in-dog-we-trust,In Dog We Trust (2000),Exactly how much are the animals that live in our home caught up in everyday family dynamics?
+155,https://www.thisamericanlife.org/155/hoaxing-yourself,Hoaxing Yourself (2000),Stories of people who tell a lie and then believe the lie more than anyone else does.
+156,https://www.thisamericanlife.org/156/what-remains,What Remains,"Stories of people revisiting what happened, and who they were back when."
+157,https://www.thisamericanlife.org/157/secret-life-of-daytime,Secret Life of Daytime,"All those people you see in the middle of the workday, in coffee shops and bookstores—why aren't they at work?"
+158,https://www.thisamericanlife.org/158/mob-mentality,Mob Mentality,"The pleasure and the terror of being in a rampaging, angry mob."
+159,https://www.thisamericanlife.org/159/mothers-day,Mother’s Day,"Stories of moms: How they treat us, how we treat them."
+160,https://www.thisamericanlife.org/160/character-assassination,Character Assassination,David Foster Wallace reports on a turning point in the 2000 presidential primary.
+161,https://www.thisamericanlife.org/161/million-bubbles,Million Bubbles,A look at what's going on inside the individual glass and steel worlds of our cars.
+162,https://www.thisamericanlife.org/162/moving,Moving,Stories of people who did not want to move but circumstance forced their hands.
+163,https://www.thisamericanlife.org/163/can-you-fight-city-hallif-you-are-city-hall,Can You Fight City Hall…If You Are City Hall?,"Stories of people who stand up alone for what's right, damn the consequences."
+164,https://www.thisamericanlife.org/164/crime-scene,Crime Scene (2000),Crime scenes and the stories they tell.
+165,https://www.thisamericanlife.org/165/americans-in-paris,Americans in Paris,David Sedaris takes Ira on a tour of his favorite spots in Paris.
+166,https://www.thisamericanlife.org/166/nobodys-family-is-going-to-change,Nobody's Family Is Going to Change,Does anyone's family ever change?
+167,https://www.thisamericanlife.org/167/memo-to-the-people-of-the-future,Memo to the People of the Future,Stories of people who are trying to control how they'll be seen by generations to come.
+168,https://www.thisamericanlife.org/168/the-fix-is-in,The Fix Is In,We go inside the back rooms of one multinational corporation and hear the intricate workings of how they put the fix in.
+169,https://www.thisamericanlife.org/169/pursuit-of-happiness,Pursuit of Happiness,What does it mean to grow up in a country with an inalienable right to pursue happiness?
+170,https://www.thisamericanlife.org/170/immigration,Immigration,"We look at a 1996 immigration law that is too obscure for most of us to have heard of, but which affects tens of thousands of lives in huge ways."
+171,https://www.thisamericanlife.org/171/election,Election,"Stories for the eve of the 2000 presidential election, in which we try to look beneath the candidates' soundbites."
+172,https://www.thisamericanlife.org/172/24-hours-at-the-golden-apple,24 Hours at the Golden Apple,One day in a Chicago diner.
+173,https://www.thisamericanlife.org/173/three-kinds-of-deception,Three Kinds of Deception,"A story of self-deception, a story about deceiving others, and a story about accidental deception."
+174,https://www.thisamericanlife.org/174/birthdays-anniversaries-and-milestones,"Birthdays, Anniversaries, and Milestones",A live show taped for our fifth anniversary.
+175,https://www.thisamericanlife.org/175/babysitting,Babysitting,"A brother and sister decide to invent children to babysit, as an excuse to get out of their own house."
+176,https://www.thisamericanlife.org/176/two-nations-one-president,"Two Nations, One President","Democrats explain why they're having trouble getting over the 2001 election, and Republicans explain why this is so infuriating."
+177,https://www.thisamericanlife.org/177/american-limbo,American Limbo,Stories of people living completely outside the grid of American life.
+178,https://www.thisamericanlife.org/178/superpowers,Superpowers,Which is better: flight or invisibility?
+179,https://www.thisamericanlife.org/179/cicero,Cicero,"The story of what was, at one time, one of most notoriously racist and corrupt suburbs in America."
+180,https://www.thisamericanlife.org/180/return-to-childhood,Return to Childhood 2001,"Alex Blumberg tries to find a woman who babysat him when he was nine, and other stories of people trying to revisit their childhoods."
+181,https://www.thisamericanlife.org/181/the-friendly-man,The Friendly Man,"Stories from Scott Carrier, whose strange and compelling tales sound like nothing else on the radio."
+182,https://www.thisamericanlife.org/182/cringe,Cringe,"Tales of personal humiliation, romance gone wrong, and people who profoundly misjudge how they're perceived by others."
+183,https://www.thisamericanlife.org/183/the-missing-parents-bureau,The Missing Parents Bureau,Women planning to get pregnant with the help of a sperm bank tell us about the questions they wrestle with of how much they want to know about the fathers of their kids.
+184,https://www.thisamericanlife.org/184/neighbors,Neighbors,"An average Chicagoan decides to appeal the disputes and problems in his neighborhood to a higher authority, Mr. Rogers. Yes, that Mr. Rogers."
+185,https://www.thisamericanlife.org/185/golden-calf,Golden Calf,"Stories of people worshiping false idols, and whether that's always a bad thing."
+186,https://www.thisamericanlife.org/186/prom,Prom,"While the seniors danced at Prom Night 2001 in Hoisington, Kansas—a town of about 3,000—a tornado hit the town."
+187,https://www.thisamericanlife.org/187/fathers-day-01,Father's Day '01,Stories of dads who are utterly human in scale.
+188,https://www.thisamericanlife.org/188/kid-logic,Kid Logic (2001),"Stories of kids using perfectly logical arguments, and arriving at perfectly wrong conclusions."
+189,https://www.thisamericanlife.org/189/hitlers-yacht,Hitler’s Yacht,"A modern-day fable about what happens when the free market, the media, the World War II buffs, the Neo-Nazis, and the Jews all collide over a huge Nazi tourist trap."
+190,https://www.thisamericanlife.org/190/living-the-dream,Living the Dream,There's a deep impulse in American culture that says that you can make yourself into anyone.
+191,https://www.thisamericanlife.org/191/i-know-what-you-did-this-summer,I Know What You Did This Summer,"Scott Carrier travels cross-country without air conditioning, during weather in which it's too hot to stay in the car and too hot to get out."
+192,https://www.thisamericanlife.org/192/meet-the-pros,Meet the Pros,The story of one man's journey from obscurity to international professional celebrity.
+193,https://www.thisamericanlife.org/193/stories-of-loss,Stories of Loss,A collection of stories in which people try to make sense of loss.
+194,https://www.thisamericanlife.org/194/before-and-after,Before and After,"Stories in the wake of the events of September 11, 2001."
+195,https://www.thisamericanlife.org/195/war-stories,War Stories,We try to sort out what the war in Afghanistan will be like.
+196,https://www.thisamericanlife.org/196/rashomon,Rashomon,"The events of September 11th, and how its meaning changes depending on who you talk to."
+197,https://www.thisamericanlife.org/197/before-it-had-a-name,Before It Had A Name,"In 1946, a man started to investigate the Holocaust before it was known as the Holocaust, gathering the first recorded testimonials of concentration camp survivors."
+198,https://www.thisamericanlife.org/198/how-to-win-friends-and-influence-people,How to Win Friends and Influence People,People climbing to be number one. How do they do it?
+199,https://www.thisamericanlife.org/199/house-on-loon-lake,House on Loon Lake,"A young boy, an abandoned house, and the mysterious family who disappeared without a trace."
+200,https://www.thisamericanlife.org/200/hearts-and-minds,Hearts and Minds,"Of all the wars to win, perhaps the propaganda war is the hardest."
+201,https://www.thisamericanlife.org/201/them,Them,"In a time of war, when we're all feeling a heightened sense of ""us"" and ""them,"" we wanted to take up the problem of ""them."""
+202,https://www.thisamericanlife.org/202/faith,Faith,"Stories of faith: losing it, talking about it, constructing it, and working within it."
+203,https://www.thisamericanlife.org/203/recordings-for-someone,Recordings for Someone,Personal recordings one person made for just one other person.
+204,https://www.thisamericanlife.org/204/81-words,81 Words,How the American Psychiatric Association decided that homosexuality was no longer a mental illness.
+205,https://www.thisamericanlife.org/205/plan-b,Plan B,"There's the thing you plan to do, and then there's the thing you end up doing."
+206,https://www.thisamericanlife.org/206/somewhere-in-the-arabian-sea,Somewhere in the Arabian Sea,Life aboard an aircraft carrier stationed in the Arabian Sea supporting bombing missions over Afghanistan.
+207,https://www.thisamericanlife.org/207/special-ed,Special Ed,Stories about people who were told that they're different.
+208,https://www.thisamericanlife.org/208/office-politics,Office Politics,Stories of high drama from our nation's workplaces.
+209,https://www.thisamericanlife.org/209/didnt-ask-to-be-born,Didn’t Ask to Be Born,"The story of an eighth grader who set himself on fire, and what led to that."
+210,https://www.thisamericanlife.org/210/perfect-evidence,Perfect Evidence,"DNA evidence isn't just proving wrongdoing by criminals, it's proving wrongdoing by police and prosecutors."
+211,https://www.thisamericanlife.org/211/naming-names,Naming Names,"When you turn someone over to the authorities, it can set into motion lots of huge, unintended consequences."
+212,https://www.thisamericanlife.org/212/the-other-man,The Other Man,Stories about what happens when a new guy comes on the scene and changes everything.
+213,https://www.thisamericanlife.org/213/devil-on-my-shoulder,Devil on My Shoulder,"Stories of people who try to convince you that the devil is there, whispering in your ear."
+214,https://www.thisamericanlife.org/214/family-physics,Family Physics,We take the laws of physics and apply them to the realm of human relationships.
+215,https://www.thisamericanlife.org/215/ask-an-expert,Ask An Expert,Stories about people who turned to the experts and got horrible advice.
+216,https://www.thisamericanlife.org/216/give-the-people-what-they-want,Give the People What They Want,Ira Glass goes to a fake wedding at a home for Alzheimer's patients.
+217,https://www.thisamericanlife.org/217/give-it-to-them,Give It to Them,"Two years after the Mideast peace process collapsed, we wanted to understand what that has done to people living in Israel and the West Bank."
+218,https://www.thisamericanlife.org/218/act-v,Act V,A group of inmates at a high-security prison stage a production of the last act of Hamlet.
+219,https://www.thisamericanlife.org/219/high-speed-chase,High Speed Chase,What happened after a group of Native American girls from one town found themselves being chased down the highway by a group of white boys from another town.
+220,https://www.thisamericanlife.org/220/testosterone,Testosterone,The pros and cons of the hormone of desire.
+221,https://www.thisamericanlife.org/221/fake-id,Fake I.D.,"Stories of people traveling under false identities, not for power or personal gain, but for their own deeper personal reasons."
+222,https://www.thisamericanlife.org/222/suckers,Suckers,Some people have a rather dark worldview that divides people into two groups: Suckers and non-suckers.
+223,https://www.thisamericanlife.org/223/classifieds,Classifieds,We take the classifieds from one Sunday edition of the paper and fill a program with stories that come from the ads.
+224,https://www.thisamericanlife.org/224/middlemen,Middlemen,"""Hi, middleman. Here are three splendid acts to toast your subtle virtues."""
+225,https://www.thisamericanlife.org/225/home-movies,Home Movies,"Home movies are often all the same—kids on the beach, people getting married, birthday parties—so why do we make and watch so many of them?"
+226,https://www.thisamericanlife.org/226/reruns,Reruns,Stories of people stuck in moments that they revisit over and over again.
+227,https://www.thisamericanlife.org/227/why-we-fight,Why We Fight,We still have some basic questions about why we're going to war and whether it's a good thing.
+228,https://www.thisamericanlife.org/228/you-are-so-beautifulto-me,You Are So Beautiful…To Me,Two modern-day reinterpretations of the Frog Prince story.
+229,https://www.thisamericanlife.org/229/secret-government,Secret Government,"Stories of some of the secrets our government keeps: of imprisonment, deportation, and spying."
+230,https://www.thisamericanlife.org/230/come-back-to-afghanistan,Come Back to Afghanistan,A California teenager returns to the home country he's never known.
+231,https://www.thisamericanlife.org/231/time-to-save-the-world,Time to Save the World,Stories of sudden truths delivered by complete strangers.
+232,https://www.thisamericanlife.org/232/the-real-story,The Real Story,Real stories from three very different wars.
+233,https://www.thisamericanlife.org/233/starting-from-scratch,Starting From Scratch,"A man in retirement tries to start over in a new life with a new venture: a cable channel, with lots of puppies."
+234,https://www.thisamericanlife.org/234/say-anything,Say Anything,Does talking about it really help?
+235,https://www.thisamericanlife.org/235/the-balloon-goes-up,The Balloon Goes Up,"Stories from the beginnings of the war in Iraq, and how it compares with wars in our country's past."
+236,https://www.thisamericanlife.org/236/my-two-cents,My Two Cents,"We try to figure out the paradox of the current economy, where Americans are simultaneously both losing jobs and buying new homes and cars."
+237,https://www.thisamericanlife.org/237/regime-change,Regime Change,Stories of regime change in everyday life.
+238,https://www.thisamericanlife.org/238/lost-in-translation,Lost in Translation,"Jonathan Goldstein and Starlee Kine go to a karaoke club that has, along with all the songs, comedy routines for people to perform."
+239,https://www.thisamericanlife.org/239/lost-in-america,Lost in America,"Stories of people who are lost, histories that are lost, and things that are lost."
+240,https://www.thisamericanlife.org/240/im-in-charge-now,I’m In Charge Now,There is a ominous information gap between the U.S. officials running the country and the Iraqi people being governed.
+241,https://www.thisamericanlife.org/241/20-acts-in-60-minutes,20 Acts in 60 Minutes,All kinds of little stories that we ordinarily can't use on the radio show because they are just too short.
+242,https://www.thisamericanlife.org/242/enemy-camp,Enemy Camp,The story of a fixer for the Catholic Church and how he came to sympathize with the people that he was sent to deceive.
+243,https://www.thisamericanlife.org/243/later-that-same-day,Later That Same Day,Stories about what the passage of time can do to someone.
+244,https://www.thisamericanlife.org/244/macgyver,MacGyver,Four real stories in which real people invent amazingly clever solutions to their problems.
+245,https://www.thisamericanlife.org/245/allure-of-the-mean-friend,Allure of the Mean Friend,"They treat us poorly, they don't call us back, they cancel plans at the last minute, and yet we keep coming back for more."
+246,https://www.thisamericanlife.org/246/my-pen-pal,My Pen Pal,"Stories of very unusual pen pals, people whose relationship could not exist without the help of the postal service."
+247,https://www.thisamericanlife.org/247/what-is-this-thing,What Is This Thing?,"What is this thing called love? For answers, we explore the romance novel industry, a $1.5 billion empire run almost entirely by and for women."
+248,https://www.thisamericanlife.org/248/like-it-or-not,Like It or Not,David Rakoff guest hosts.
+249,https://www.thisamericanlife.org/249/garbage,Garbage,"We follow the trash from the sanitation men on the street, to the mob guys who controlled the hauling business, to the people who actually live in dumps."
+250,https://www.thisamericanlife.org/250/the-annoying-gap-between-theoryand-practice,The Annoying Gap Between Theory...and Practice,Why is it always harder than you think it'll be?
+251,https://www.thisamericanlife.org/251/brothers-keeper,Brother’s Keeper,"In his ongoing effort to write his own version of the Bible, Jonathan Goldstein retells the story of Cain and Abel."
+252,https://www.thisamericanlife.org/252/poultry-slam-2003,Poultry Slam 2003,"Turkeys, chickens, geese, ducks, fowl of all kinds, real and imagined, and their mysterious hold over us."
+253,https://www.thisamericanlife.org/253/the-middle-of-nowhere,The Middle of Nowhere,The tiny island of Nauru is at the center of several of the decade's biggest global events.
+254,https://www.thisamericanlife.org/254/teenage-embed-part-two,"Teenage Embed, Part Two",Hyder returns to Afghanistan.
+255,https://www.thisamericanlife.org/255/this-american-lifes-holiday-gift-giving-guide,Our Holiday Gift-Giving Guide,The vexing difficulty of finding the perfect gift.
+256,https://www.thisamericanlife.org/256/living-without,Living Without (2004),Sarah Vowell explains the cheerful journalism of deprivation. And other stories.
+257,https://www.thisamericanlife.org/257/what-i-shouldve-said,What I Should’ve Said,People return to the scene of the crime where they should have spoken clearly and forcefully to review what the hell went wrong.
+258,https://www.thisamericanlife.org/258/leaving-the-fold,Leaving the Fold (2004),People leaving the situation they're used to and striking off for something less familiar.
+259,https://www.thisamericanlife.org/259/promised-land,Promised Land,David Rakoff tries a 20-day fast to see if it will bring him any form of enlightenment.
+260,https://www.thisamericanlife.org/260/the-facts-dont-matter,The Facts Don’t Matter,How a bungled Nazi sabotage operation became the legal foundation for the Bush administration's push to try U.S. citizens in military tribunals.
+261,https://www.thisamericanlife.org/261/the-sanctity-of-marriage,The Sanctity of Marriage,A generation of researchers has revolutionized the way we see marriage.
+262,https://www.thisamericanlife.org/262/miracle-cures,Miracle Cures,A son tries to help his mom in a faraway place defy the laws of medical science.
+263,https://www.thisamericanlife.org/263/desperate-measures,Desperate Measures,Stories of people stuck in unfixable situations who try desperate measures.
+264,https://www.thisamericanlife.org/264/special-treatment,Special Treatment,"A defense of special treatment, by people who receive it and people who give it."
+265,https://www.thisamericanlife.org/265/fake-science,Fake Science,A Seattle group called AGHOST is using whatever scientific principles they can find to hunt for ghosts.
+266,https://www.thisamericanlife.org/266/im-from-the-private-sector-and-im-here-to-help,I'm From the Private Sector and I'm Here to Help,Nancy Updike goes to Iraq to try to figure out what it's like to be a private citizen working in the middle of a war zone.
+267,https://www.thisamericanlife.org/267/propriety,Propriety,"By tightening the rules on what swear words are allowed on the nation's airwaves, FCC officials say they're protecting kids. But the facts don't back them up."
+268,https://www.thisamericanlife.org/268/my-experimental-phase,My Experimental Phase,People who decide to try out a new life—the kind of life their parents never wanted for them.
+269,https://www.thisamericanlife.org/269/someone-to-watch-over-me,Someone to Watch Over Me,Letting someone else take care of you can change everything.
+270,https://www.thisamericanlife.org/270/family-legend,Family Legend,"Every family has its share of grudges, secrets, and bad behavior."
+271,https://www.thisamericanlife.org/271/best-interests,Best Interests,Stories about adults struggling to figure out what is in the best interest of some child.
+272,https://www.thisamericanlife.org/272/big-tent,Big Tent,We leave behind the official Republican talking points and ask them to speak instead about what they actually believe.
+273,https://www.thisamericanlife.org/273/put-your-heart-in-it,Put Your Heart In It,Stories about people deciding whether to give it their all.
+274,https://www.thisamericanlife.org/274/enemy-camp-04,Enemy Camp (2004),"Behind enemy lines, sometimes people get confused about whose side they're on and how to fight the enemy."
+275,https://www.thisamericanlife.org/275/two-steps-back,Two Steps Back,The rise and fall of school reform.
+276,https://www.thisamericanlife.org/276/swing-set,Swing Set,A journey through the minds of undecided voters.
+277,https://www.thisamericanlife.org/277/apology,Apology,It's rare that a successful apology happens.
+278,https://www.thisamericanlife.org/278/spies-like-us,Spies Like Us,A woman starts hearing her neighbors making drug deals over her baby monitor's frequency.
+279,https://www.thisamericanlife.org/279/auto-show,Auto Show,"Stories about people who love their cars, for better or for worse."
+280,https://www.thisamericanlife.org/280/in-country,In Country,What life is like for American soldiers in Iraq.
+281,https://www.thisamericanlife.org/281/my-big-break,My Big Break,"Sometimes, getting your big break isn't all it's cracked up to be."
+282,https://www.thisamericanlife.org/282/diy,DIY,"After four lawyers fail to get an innocent man out of prison, his friend takes on the case himself."
+283,https://www.thisamericanlife.org/283/remember-me,Remember Me,"A dying mother makes a tape for her developmentally disabled daughter, hoping she'll watch it someday, knowing she might not."
+284,https://www.thisamericanlife.org/284/should-i-stay-or-should-i-go,Should I Stay or Should I Go?,"A software writer loses his job, but continues to show up at work, sneaking in the door each day and putting in long hours."
+285,https://www.thisamericanlife.org/285/know-your-enemy,Know Your Enemy,An LA prosecutor thought he'd make a name for himself by taking the lead singer of the Dead Kennedys to court for obscenity.
+286,https://www.thisamericanlife.org/286/mind-games,Mind Games (2005),"Stories of people who try simple mind games on others, and then find themselves way in over their heads."
+287,https://www.thisamericanlife.org/287/backed-into-a-corner,Backed Into A Corner,"Stories about people who end up making choices they'd rather not make, when their options begin to run out."
+288,https://www.thisamericanlife.org/288/not-what-i-meant,Not What I Meant,"Stories about how easy it is for communication to go awry, and what the consequences can be after it does."
+289,https://www.thisamericanlife.org/289/go-ask-your-father,Go Ask Your Father,Sons and daughters get to find out the one thing they've always wanted to know about their father.
+290,https://www.thisamericanlife.org/290/godless-america,Godless America,We spend an hour trying to remember why anyone liked the separation of church and state in the first place.
+291,https://www.thisamericanlife.org/291/reunited-and-it-feels-so-good,Reunited (And It Feels So Good),"Stories about getting back together with your parent, your spouse, your ... Brahman bull."
+292,https://www.thisamericanlife.org/292/the-arms-trader,The Arms Trader (2005),The U.S. government spent two years on a sting operation trapping an Indian man named Hemant Lakhani.
+293,https://www.thisamericanlife.org/293/a-little-bit-of-knowledge,A Little Bit of Knowledge,Stories about the pitfalls of knowing just a little bit too little.
+294,https://www.thisamericanlife.org/294/image-makers,Image Makers,Some librarians in Michigan embark on an audacious act of rebranding their libraries.
+295,https://www.thisamericanlife.org/295/not-what-i-signed-up-for,Not What I Signed Up For,A 9/11 widow finds herself having to comfort another distraught woman on national TV.
+296,https://www.thisamericanlife.org/296/after-the-flood,After the Flood,Surprising stories from survivors in New Orleans.
+297,https://www.thisamericanlife.org/297/this-is-not-my-beautiful-house,This Is Not My Beautiful House,"Stories from the largest mass resettlement that America has seen since the Civil War, as over 400,000 people—victims of Hurricane Katrina."
+298,https://www.thisamericanlife.org/298/getting-and-spending,Getting and Spending,"How far will we go to get money? And once we've got it, what should we spend it on?"
+299,https://www.thisamericanlife.org/299/back-from-the-dead,Back from the Dead,Stories about people and places that have come back to life after everything seemed lost.
+300,https://www.thisamericanlife.org/300/whats-in-a-number,What’s In A Number?,"A study estimated the number of Iraqi casualties since the war began at 100,000. Most of the deaths were caused by coalition forces."
+301,https://www.thisamericanlife.org/301/settling-the-score,Settling the Score,"Stories about the lengths we go to make things right, and about what money can and cannot fix."
+302,https://www.thisamericanlife.org/302/strangers-in-a-strange-land,Strangers in a Strange Land,"Three people tell their stories from Iraq about the fighting, the locals, and why you subscribe to Details magazine."
+303,https://www.thisamericanlife.org/303/david-and-goliath,David and Goliath,"Variations on an old tale, with very modern consequences."
+304,https://www.thisamericanlife.org/304/heretics,Heretics,A rising star in the evangelical movement casts aside the idea of hell.
+305,https://www.thisamericanlife.org/305/the-this-american-life-holiday-spectacular,The This American Life Holiday Spectacular,"A full-throttle, show-stopping, no-holds-barred Christmas Spectacular!"
+306,https://www.thisamericanlife.org/306/seemed-like-a-good-idea-at-the-time,Seemed Like A Good Idea at the Time,Lotto fever grips the cast of Riverdance.
+307,https://www.thisamericanlife.org/307/in-the-shadow-of-the-city,In the Shadow of the City (2006),"Stories that take place on the edge of civilization, just out of sight."
+308,https://www.thisamericanlife.org/308/star-crossed-love,Star-Crossed Love,"Stories of how love blossoms, even when (perhaps) it shouldn't."
+309,https://www.thisamericanlife.org/309/cat-and-mouse,Cat and Mouse,Stories about the kinds of chase games that just never end.
+310,https://www.thisamericanlife.org/310/habeas-schmabeas,Habeas Schmabeas,"Is Guantanamo Bay a camp full of terrorists, or a camp full of our mistakes?"
+311,https://www.thisamericanlife.org/311/a-better-mousetrap,A Better Mousetrap (2006),Stories about people trying to find new solutions to age-old problems.
+312,https://www.thisamericanlife.org/312/how-we-talked-back-then,How We Talked Back Then,"We revisit two live shows we put on in the early days—one was about letters, and the other was about this then-new phenomenon called the internet."
+313,https://www.thisamericanlife.org/313/parental-guidance-suggested,Parental Guidance Suggested,Stories about kids who actually want their parents looking out for them.
+314,https://www.thisamericanlife.org/314/its-never-over,It's Never Over,A grown man tries to get to the bottom of why his schoolmates threw him in a lake 20 years earlier.
+315,https://www.thisamericanlife.org/315/the-parrot-and-the-potbellied-pig,The Parrot and the Potbellied Pig,"Stories about animals who don't even seem like they should know each other, much less appear on the same radio show."
+316,https://www.thisamericanlife.org/316/the-cat-came-back,The Cat Came Back,"When something you thought was gone forever keeps returning, against all odds."
+317,https://www.thisamericanlife.org/317/unconditional-love,Unconditional Love,"A family uses a controversial therapy to train their son to love them, and other stories about the hard work of loving other people."
+318,https://www.thisamericanlife.org/318/with-great-power,With Great Power,Stories of everyday people who get saddled with great power.
+319,https://www.thisamericanlife.org/319/and-the-call-was-coming-from-the-basement,And the Call Was Coming from the Basement,"Scary stories that are all true—zombie raccoons, haunted houses, and things that go ""EEEEK!!!"" in the night."
+320,https://www.thisamericanlife.org/320/whats-in-a-number-2006-edition,What’s In A Number? — 2006 Edition,The remarkable story of what it took to determine the number of Iraqis who've died since the U.S. invasion.
+321,https://www.thisamericanlife.org/321/sink-or-swim,Sink or Swim,Stories of people who are in over their heads and trying to stay afloat.
+322,https://www.thisamericanlife.org/322/shouting-across-the-divide,Shouting Across the Divide,Stories of Muslims and non-Muslims trying to communicate with each other and not always getting their point across.
+323,https://www.thisamericanlife.org/323/the-super,The Super,"The mysterious hold supers have on their buildings, or that their buildings have on them."
+324,https://www.thisamericanlife.org/324/my-brilliant-plan,My Brilliant Plan,An American reporter in Iraq decides to rent a house in a residential Baghdad neighborhood. Plus other big ideas gone amok.
+325,https://www.thisamericanlife.org/325/houses-of-ill-repute,Houses of Ill Repute,An old man in Brooklyn invites some homeless prostitutes into his house on a cold winter night. They never leave.
+326,https://www.thisamericanlife.org/326/quiz-show,Quiz Show,A man with social anxiety goes through a transformation on a TV game show.
+327,https://www.thisamericanlife.org/327/by-proxy,By Proxy,"Stories of proxy fights, proxy arguments, and proxy situations of all kinds."
+328,https://www.thisamericanlife.org/328/what-i-learned-from-television,What I Learned from Television,"Stories recorded during our 2007 live tour, by Sarah Vowell, David Rakoff, Dan Savage, and others."
+329,https://www.thisamericanlife.org/329/nice-work-if-you-can-get-it,Nice Work If You Can Get It,"Stories of sudden fame, quick riches, and the downside of the dream job."
+330,https://www.thisamericanlife.org/330/my-reputation,My Reputation,Stories of people trying to recover from damage to their reputations.
+331,https://www.thisamericanlife.org/331/habeas-schmabeas-2007,Habeas Schmabeas (2007),"Is Guantanamo Bay a camp full of terrorists, or a camp full of our mistakes?"
+332,https://www.thisamericanlife.org/332/the-ten-commandments,The Ten Commandments,People struggling to follow the Ten Commandments from the book of Exodus.
+333,https://www.thisamericanlife.org/333/the-center-for-lessons-learned,The Center for Lessons Learned,"Four years into the Iraq War, what have we learned?"
+334,https://www.thisamericanlife.org/334/duty-calls,Duty Calls,"Josh's family didn't play much of a role in his daily life—until duty called, and they took over his life."
+335,https://www.thisamericanlife.org/335/big-wide-world,Big Wide World,"When he was a teenager, Haider worked in the Iraqi Ministry of Information. He was treated like a celebrity."
+336,https://www.thisamericanlife.org/336/who-can-you-save,Who Can You Save?,Stories about the pitfalls of trying to do the right thing.
+337,https://www.thisamericanlife.org/337/man-vs-history,Man vs. History,Stories about people taking history into their own hands.
+338,https://www.thisamericanlife.org/338/the-spokesman,The Spokesman,Stories of what can happen when you go from being a private person to a public face.
+339,https://www.thisamericanlife.org/339/break-up,Break-Up,Stories from the heart of heartbreak.
+340,https://www.thisamericanlife.org/340/the-devil-in-me,The Devil in Me,Stories of people trying to exorcize their inner demons.
+341,https://www.thisamericanlife.org/341/how-to-talk-to-kids,How to Talk to Kids,Stories of adults taking very different approaches to communicating with children.
+342,https://www.thisamericanlife.org/342/how-to-rest-in-peace,How to Rest in Peace,What happens to the people left behind after the detectives close the case?
+343,https://www.thisamericanlife.org/343/poultry-slam-2007,Poultry Slam 2007,"Our annual program about turkeys, chickens, and fowl of all types."
+344,https://www.thisamericanlife.org/344/the-competition,The Competition,Stories of the unintended consequences of market forces.
+345,https://www.thisamericanlife.org/345/ties-that-bind,Ties That Bind,"A girl receives a heart transplant from a boy her age, and her mother sets off to find out more about the kid who saved her daughter's life."
+346,https://www.thisamericanlife.org/346/home-alone,Home Alone,A 79-year-old woman dies alone in Los Angeles. No one knows her—or her next of kin.
+347,https://www.thisamericanlife.org/347/matchmakers,Matchmakers,Making a lasting love match isn't as simple as writing a check.
+348,https://www.thisamericanlife.org/348/tough-room,Tough Room,"We go into the writers' room at The Onion, where they start with over 600 potential headlines for their fake-news newspaper each week."
+349,https://www.thisamericanlife.org/349/valentines-day-2008,Valentine’s Day 2008,Stories about couples that happen decades after the moment their eyes meet.
+350,https://www.thisamericanlife.org/350/human-resources,Human Resources,"Teachers tell us about a secret room in the New York City Board of Education building called ""the rubber room."""
+351,https://www.thisamericanlife.org/351/return-to-childhood-2008,Return to Childhood,People who try to revisit their childhoods—what they find and what they do not find.
+352,https://www.thisamericanlife.org/352/the-ghost-of-bobby-dunbar,The Ghost of Bobby Dunbar,"In 1912, a four-year-old boy went missing in Louisiana. Eight months later, he was found. But two grief-stricken mothers both claimed the same boy as their own."
+353,https://www.thisamericanlife.org/353/the-audacity-of-government,The Audacity of Government,Stories of the Bush Administration's quest to redefine the limits of presidential power.
+354,https://www.thisamericanlife.org/354/mistakes-were-made,Mistakes Were Made,Freezing dead people so scientists can reanimate them in the future is a lot harder than it sounds.
+355,https://www.thisamericanlife.org/355/the-giant-pool-of-money,The Giant Pool of Money,The surprisingly entertaining story of how the U.S. got itself into a housing crisis.
+356,https://www.thisamericanlife.org/356/the-prosecutor,The Prosecutor,Things go badly for the lead prosecutor in one of the first high-profile terrorist cases since 9/11.
+357,https://www.thisamericanlife.org/357/the-truth-will-out,The Truth Will Out,"Stories of concealed truths bubbling to the surface, including a new story by Etgar Keret."
+358,https://www.thisamericanlife.org/358/social-engineering,Social Engineering,Stories of social engineering on a small scale.
+359,https://www.thisamericanlife.org/359/life-after-death,Life After Death,Stories of people haunted by guilt over their role in others' deaths.
+360,https://www.thisamericanlife.org/360/switched-at-birth,Switched at Birth,Two babies switched at birth. One of the moms knew but kept it a secret for 43 years. Then she told everybody.
+361,https://www.thisamericanlife.org/361/fear-of-sleep,Fear of Sleep,Mike Birbiglia talks about the sleepwalking that nearly killed him.
+362,https://www.thisamericanlife.org/362/got-you-pegged,Got You Pegged,"Shalom Auslander goes on vacation with his family, and suspects the chatty old man in the room next door is an imposter."
+363,https://www.thisamericanlife.org/363/enforcers,Enforcers,Stories about people who take the law into their own hands.
+364,https://www.thisamericanlife.org/364/going-big,Going Big,"Stories about people who take grand, sweeping approaches to solving problems of all sorts."
+365,https://www.thisamericanlife.org/365/another-frightening-show-about-the-economy,Another Frightening Show About the Economy,A look at what regulators could've done to prevent the financial crisis from happening in the first place.
+366,https://www.thisamericanlife.org/366/a-better-mousetrap-2008,A Better Mousetrap (2008),Stories about people trying to find new solutions to age-old problems.
+367,https://www.thisamericanlife.org/367/ground-game,Ground Game,We go to Pennsylvania to figure out why both McCain and Obama think they can win there.
+368,https://www.thisamericanlife.org/368/who-do-you-think-you-are,Who Do You Think You Are?,Stories of privilege and the lengths some will go to to maintain it.
+369,https://www.thisamericanlife.org/369/poultry-slam-2008,Poultry Slam 2008,A man in Pakistan buys an amulet with the power to protect anyone from harm. He tests it out on a chicken.
+370,https://www.thisamericanlife.org/370/ruining-it-for-the-rest-of-us,Ruining It for the Rest of Us,"Stories of people who ruin things for everyone else, or who are accused of that."
+371,https://www.thisamericanlife.org/371/scenes-from-a-mall,Scenes From a Mall,We document life in a mall in Tennessee during the run-up to Christmas.
+372,https://www.thisamericanlife.org/372/the-inauguration-show,The Inauguration Show,"On the eve of Obama's inauguration, we sent reporters out to talk to people about how they're feeling."
+373,https://www.thisamericanlife.org/373/the-new-boss,The New Boss,Stories about what happens when someone new takes over—someone with a vision of how things ought to be.
+375,https://www.thisamericanlife.org/375/bad-bank,Bad Bank,We tackle a very tough subject: Trying to explain exactly what a bank is and does.
+376,https://www.thisamericanlife.org/376/wrong-side-of-history,Wrong Side of History,"Stories of people with wildly popular or unpopular views for one moment in time, and how those views stand up years later."
+377,https://www.thisamericanlife.org/377/scenes-from-a-recession,Scenes From a Recession,We highlight the unusual circumstances our economic drought has left us in.
+378,https://www.thisamericanlife.org/378/this-i-used-to-believe,This I Used to Believe,Stories of people forced to let go of their firmly held beliefs.
+379,https://www.thisamericanlife.org/379/return-to-the-scene-of-the-crime,Return to the Scene of the Crime,"A live episode of the radio program, including stories told on stage by Dan Savage and Mike Birbiglia."
+380,https://www.thisamericanlife.org/380/no-map,No Map,"Stories of people who find themselves in situations far from the beaten path, without guidelines or useful precedents."
+381,https://www.thisamericanlife.org/381/turncoat,Turncoat,A well-known activist is accused of spying on other activists for the FBI.
+382,https://www.thisamericanlife.org/382/the-watchmen,The Watchmen,Where were the regulators and watchdogs who were supposed to be overseeing the banks and the finance industry?
+383,https://www.thisamericanlife.org/383/origin-story,Origin Story (2009),Little-known and surprising stories of how all sorts of institutions began.
+384,https://www.thisamericanlife.org/384/fall-guy,Fall Guy,"When things go wrong, it's easy to pin it all on one person and watch them go down in flames."
+385,https://www.thisamericanlife.org/385/pro-se,Pro Se,"It's tempting to act as your own lawyer, to argue your own cause."
+386,https://www.thisamericanlife.org/386/fine-print,Fine Print,"Stories where the fine print changes everything, whether you read it or not."
+387,https://www.thisamericanlife.org/387/arms-trader-2009,Arms Trader (2009),The U.S. government spent two years on a sting operation trapping an Indian man suspected of being an illegal arms dealer.
+388,https://www.thisamericanlife.org/388/rest-stop,Rest Stop,Nine radio reporters. Two days. One rest stop on the New York State Thruway.
+389,https://www.thisamericanlife.org/389/frenemies,Frenemies,"Tales of estranged sisters, BFFs breaking up, and how reality stars walk the fine line between making friends and getting famous."
+390,https://www.thisamericanlife.org/390/return-to-the-giant-pool-of-money,Return To The Giant Pool of Money,We mark the anniversary of the economic collapse.
+391,https://www.thisamericanlife.org/391/more-is-less,More Is Less,"An hour explaining the American health care system—specifically, why it is that costs keep rising."
+392,https://www.thisamericanlife.org/392/someone-elses-money,Someone Else's Money,A deeper look inside the health insurance industry and the dark side of prescription drug coupons.
+393,https://www.thisamericanlife.org/393/infidelity,Infidelity,"Stories of cheating, cheaters and the cheated."
+394,https://www.thisamericanlife.org/394/bait-and-switch,Bait and Switch,The story of man who tries to investigate a neighborhood crime and ends up in jail himself.
+395,https://www.thisamericanlife.org/395/middle-of-the-night,Middle of the Night,Stories of people who are up while the rest of us are sleeping.
+396,https://www.thisamericanlife.org/396/1-party-school,#1 Party School,"The show goes to Penn State to report on tailgating, frat parties, and other alcohol-induced mayhem."
+397,https://www.thisamericanlife.org/397/2010,2010,We asked our contributors to predict real events that will happen to them and the people they know in 2010.
+398,https://www.thisamericanlife.org/398/long-shot,Long Shot,Stories of people betting on something with very bad odds.
+399,https://www.thisamericanlife.org/399/contents-unknown,Contents Unknown,"A man finds himself in a train station in India, with no idea how he got there or who he is. That, and other stories of filling in the blank."
+400,https://www.thisamericanlife.org/400/stories-pitched-by-our-parents,Stories Pitched by Our Parents,We try to turn their random ideas into actual stories.
+401,https://www.thisamericanlife.org/401/parent-trap,Parent Trap,"A chimp is raised twice—once as a human child, and again as a chimp."
+402,https://www.thisamericanlife.org/402/save-the-day,Save the Day,Stories about one person single-handedly taking charge of a situation gone wrong.
+403,https://www.thisamericanlife.org/403/nummi,NUMMI (2010),A car plant in Fremont California that might have saved the U.S. car industry.
+404,https://www.thisamericanlife.org/404/enemy-camp-2010,Enemy Camp (2010),"Living behind enemy lines, among the enemy, it's sometimes hard to remember why you're fighting in the first place."
+405,https://www.thisamericanlife.org/405/inside-job,Inside Job,The inside story of one company that made hundreds of millions of dollars for itself while worsening the financial crisis for the rest of us.
+406,https://www.thisamericanlife.org/406/true-urban-legends,True Urban Legends,Can a rat crawl through your plumbing and end up in your toilet?
+407,https://www.thisamericanlife.org/407/the-bridge,The Bridge,"Stories of bridges from three different countries, including one in China that's famous for its massive size and its high suicide rate."
+408,https://www.thisamericanlife.org/408/island-time,Island Time,Blanketing a country in aid and money has never really worked so well. Is there a chance things could be different in Haiti?
+409,https://www.thisamericanlife.org/409/held-hostage,Held Hostage,"Stories of people held captive — by criminals, by paperwork, and in one man's case, his own body — and the ways they try to cope."
+410,https://www.thisamericanlife.org/410/social-contract,Social Contract,"Richard Ravitch has helped fix three governmental crises, so what makes it so much harder for him to solve the state's current financial crisis?"
+411,https://www.thisamericanlife.org/411/first-contact,First Contact,"Stories of first encounters with unknown and distant beings—girls, foreigners, and perhaps even aliens."
+412,https://www.thisamericanlife.org/412/million-dollar-idea,Million Dollar Idea,Michael Larson made the most money ever on the game show Press Your Luck. And it was no accident.
+413,https://www.thisamericanlife.org/413/georgia-rambler,Georgia Rambler,Nine of us go to small towns in Georgia to ask around until we find stories.
+414,https://www.thisamericanlife.org/414/right-to-remain-silent,Right to Remain Silent,A New York police officer secretly records his supervisors ordering officers to do all sorts of things that police aren't supposed to do.
+415,https://www.thisamericanlife.org/415/crybabies,Crybabies,"Stories of crybabies in sports, in politics, on Wall Street, on the streets of California."
+416,https://www.thisamericanlife.org/416/iraq-after-us,Iraq After Us,We spend a month in Iraq talking to Iraqis and Americans about the war that tore the country apart.
+417,https://www.thisamericanlife.org/417/this-party-sucks,This Party Sucks,Two best friends get tired of yelling at their TVs and decide to form a Tea Party chapter to effect political change.
+418,https://www.thisamericanlife.org/418/toxie,Toxie,Reporters from Planet Money bought a toxic asset that turned out to be an encyclopedia of the financial crisis.
+419,https://www.thisamericanlife.org/419/petty-tyrant,Petty Tyrant,"The rise and fall of a school maintenance man in Schenectady, New York who terrorized his staff and got away with it for decades."
+420,https://www.thisamericanlife.org/420/neighborhood-watch,Neighborhood Watch,"Stories of neighbors watching out for each other, for better and worse."
+421,https://www.thisamericanlife.org/421/last-man-standing,Last Man Standing,"Stories about people who feel compelled to keep going, especially when everyone else has given up."
+422,https://www.thisamericanlife.org/422/comedians-of-christmas-comedy-special,Comedians of Christmas Comedy Special,The holidays are stressful so we booked a seasonal pick-me-up: an hour of comedy.
+423,https://www.thisamericanlife.org/423/the-invention-of-money,The Invention of Money,Five reporters stumbled on what seems like a basic question: What is money?
+424,https://www.thisamericanlife.org/424/kid-politics,Kid Politics,"When it comes to governing, can kids do any better than grown-ups?"
+425,https://www.thisamericanlife.org/425/slow-to-react,Slow To React,The story of a wedding 17 years in the making.
+426,https://www.thisamericanlife.org/426/tough-room-2011,Tough Room 2011,We go backstage with comedy writers at The Onion.
+427,https://www.thisamericanlife.org/427/original-recipe,Original Recipe,"We think we may have found the original recipe for Coca-Cola, one of the most guarded trade secrets in the world."
+428,https://www.thisamericanlife.org/428/oh-you-shouldnt-have,Oh You Shouldn't Have,Stories about the perils of giving and receiving gifts.
+429,https://www.thisamericanlife.org/429/will-they-know-me-back-home,Will They Know Me Back Home?,Stories of people who've grown so accustomed to wartime that the lives they've left behind no longer make sense.
+430,https://www.thisamericanlife.org/430/very-tough-love,Very Tough Love,A drug court program in Georgia where people with offenses that would get minimal or no sentences elsewhere sometimes end up in the system five to ten years.
+431,https://www.thisamericanlife.org/431/see-no-evil,See No Evil,Stories of people pretending that everything is okay and ignoring the awful stuff that's staring them straight in the face.
+432,https://www.thisamericanlife.org/432/know-when-to-fold-em,Know When To Fold ‘Em,The story of an entire country deciding whether to give up on just one of its citizens.
+433,https://www.thisamericanlife.org/433/fine-print-2011,Fine Print 2011,"Stories where the fine print changes everything, whether you read it or not."
+434,https://www.thisamericanlife.org/434/this-week,This Week,An hour of stories about...this week.
+435,https://www.thisamericanlife.org/435/how-to-create-a-job,How To Create a Job,Can politicians truly create many jobs?
+436,https://www.thisamericanlife.org/436/the-psychopath-test,The Psychopath Test,"We heard about a test that could determine if someone was a psychopath. So, naturally, our staff decided to take it."
+437,https://www.thisamericanlife.org/437/old-boys-network,Old Boys Network,"Nurses at a small Texas hospital report a well-connected doctor for dangerous medical practices, and find themselves under arrest."
+438,https://www.thisamericanlife.org/438/fathers-day-2011,Father's Day 2011,Surprising stories of fathers trying to be good dads.
+439,https://www.thisamericanlife.org/439/a-house-divided,A House Divided,Stories about people who find themselves either unexpectedly being singled out or doing the singling out.
+440,https://www.thisamericanlife.org/440/game-changer,Game Changer,Two professors each make a calculation that no one had made before.
+441,https://www.thisamericanlife.org/441/when-patents-attack,When Patents Attack!,"Why would a company rent an office in a tiny town in East Texas, put a nameplate on the door, and leave it completely empty for a year?"
+442,https://www.thisamericanlife.org/442/thugs,Thugs,"Like a lot of Mexican towns, Florencia has had its share of problems dealing with drug gangs. Until recently, when new narcos rolled into town."
+443,https://www.thisamericanlife.org/443/amusement-park,Amusement Park,We head to some of the happiest places on earth: amusement parks!
+444,https://www.thisamericanlife.org/444/gossip,Gossip,A sociologist collects journals filled with gossip about AIDS in Malawi.
+445,https://www.thisamericanlife.org/445/ten-years-in,Ten Years In,"We return to people who have been on the show in the last ten years, and whose lives were drastically altered by 9/11."
+446,https://www.thisamericanlife.org/446/living-without-2011,Living Without (2011),A man has to give up parts of his life as he learns to live hearing a tone in his head all the time.
+447,https://www.thisamericanlife.org/447/the-incredible-case-of-the-pi-moms,The Incredible Case of the P.I. Moms,"What do you get when you take a P.I. firm, then add in a bunch of sexy soccer moms, official sponsorship from Glock, a lying boss, and delusions of grandeur? This week's show."
+448,https://www.thisamericanlife.org/448/adventure,Adventure!,Stories that pinpoint when people's boring old lives turn into something wildly unfamiliar.
+449,https://www.thisamericanlife.org/449/middle-school,Middle School,"Stories from the awkward, confusing, hormonally charged world of middle school."
+450,https://www.thisamericanlife.org/450/so-crazy-it-just-might-work,So Crazy It Just Might Work,An orchestra teacher has a theory that he could kill cancer cells with electromagnetic waves.
+451,https://www.thisamericanlife.org/451/back-to-penn-state,Back to Penn State,Penn State fans and loyalists try to make sense of the actions of Coach Joe Paterno and school officials.
+452,https://www.thisamericanlife.org/452/poultry-slam-2011,Poultry Slam 2011,Stories of what happens when humans and fowl collide.
+453,https://www.thisamericanlife.org/453/nemeses,Nemeses,"A college rivalry goes viral, and personal."
+454,https://www.thisamericanlife.org/454/mr-daisey-and-the-apple-factory,Promo Mr. Daisey and the Apple Factory,This American Life has retracted this story.
+455,https://www.thisamericanlife.org/455/continental-breakup,Continental Breakup,The story of the European debt crisis is actually very surprising and dramatic.
+456,https://www.thisamericanlife.org/456/reap-what-you-sow,Reap What You Sow,"Alabama's new immigration law aims to make life so difficult for illegal immigrants that they will ""self-deport."""
+457,https://www.thisamericanlife.org/457/what-i-did-for-love,What I Did For Love,"A couple decides they need to sleep with other people before getting married, and a teenage boy falls for an undercover cop."
+458,https://www.thisamericanlife.org/458/play-the-part,Play the Part,Stories of people who decide to flip their personalities and do the exact opposite of what they normally do.
+459,https://www.thisamericanlife.org/459/what-kind-of-country,What Kind of Country,"All across the country right now, local and state governments are finding they can't pay their bills."
+460,https://www.thisamericanlife.org/460/retraction,Retraction,"We've discovered that one of our most popular episodes contained numerous fabrications. This week, we detail the errors in Mike Daisey's story about visiting Foxconn, which makes iPads and other products for Apple in China. Marketplace's China correspondent Rob Schmitz discovered the fabrications. Transcript. Press Release."
+461,https://www.thisamericanlife.org/461/take-the-money-and-run-for-office,Take the Money and Run for Office,Discovering just how much time members of Congress spend raising money.
+462,https://www.thisamericanlife.org/462/own-worst-enemy,Own Worst Enemy,Stories of people who can’t seem to stop getting in their own way.
+463,https://www.thisamericanlife.org/463/mortal-vs-venial,Mortal Vs. Venial,"Religion makes clear the difference between mortal sins and venial ones. But in our everyday lives, it can be really difficult to determine just how bad we've been."
+464,https://www.thisamericanlife.org/464/invisible-made-visible,Invisible Made Visible,"David Sedaris, Tig Notaro, Ryan Knighton, and the late David Rakoff in his final performance on the show."
+465,https://www.thisamericanlife.org/465/what-happened-at-dos-erres,What Happened at Dos Erres,A Guatemalan immigrant living near Boston gets a phone call with some very strange news about his past.
+466,https://www.thisamericanlife.org/466/blackjack,Blackjack,"A woman gambles away her inheritance and then sues the casino, saying they're to blame."
+467,https://www.thisamericanlife.org/467/americans-in-china,Americans in China,It used to be that the American expats in China were the big shots. But that's changed.
+468,https://www.thisamericanlife.org/468/switcheroo,Switcheroo,"People pretending to be people they're not: sometimes it's harmless, sometimes it's harmful, and sometimes it's hard to tell."
+469,https://www.thisamericanlife.org/469/hiding-in-plain-sight,Hiding in Plain Sight,The chief of security for a Colombian drug cartel decides to take the cartel down.
+470,https://www.thisamericanlife.org/470/show-me-the-way,Show Me the Way,Stories about people in trouble who look for help in mystifying places.
+471,https://www.thisamericanlife.org/471/the-convert,The Convert (2012),An undercover FBI informant at the mosque in Orange County starts acting very odd.
+472,https://www.thisamericanlife.org/472/our-friend-david,Our Friend David,Favorite stories by our longtime contributor and friend David Rakoff.
+473,https://www.thisamericanlife.org/473/loopholes,Loopholes,An estate attorney discovers a financial scheme that's all reward and no risk. The only catch? You have to die to get the money.
+474,https://www.thisamericanlife.org/474/back-to-school,Back to School,A growing body of research that suggests we may be on the verge of a new approach to some of the biggest challenges facing American schools.
+475,https://www.thisamericanlife.org/475/send-a-message,Send a Message,"People reach out in all kinds of ways to try to get their point across—messages in code, over the phone, and from beyond the grave."
+476,https://www.thisamericanlife.org/476/what-doesnt-kill-you,What Doesn’t Kill You,Stories of how people cope after brushes with death.
+477,https://www.thisamericanlife.org/477/getting-away-with-it,Getting Away With It,"Stories of people breaking the rules fully, completely, and with no bad consequences."
+478,https://www.thisamericanlife.org/478/red-state-blue-state,Red State Blue State,"Not only do the two sides disagree on the solutions to the country’s problems, they don’t even agree on what the problems are."
+479,https://www.thisamericanlife.org/479/little-war-on-the-prairie,Little War on the Prairie,Why Minnesotans don't talk much about the most important historical event ever to happen there.
+480,https://www.thisamericanlife.org/480/animal-sacrifice,Animal Sacrifice,"The This American Life staff confronts Ira about his dog, Piney."
+481,https://www.thisamericanlife.org/481/this-week,This Week,Stories united by one thing: They all happened in the seven days prior to broadcast.
+482,https://www.thisamericanlife.org/482/lights-camera-christmas,"Lights, Camera, Christmas! (2012)",A show filled with stories of people going to great lengths to throw a special Christmas for their families.
+483,https://www.thisamericanlife.org/483/self-improvement-kick,Self-Improvement Kick,"A perfectly normal guy gets rid of everything he owns, changes his name, says goodbye to his friends—and begins walking."
+484,https://www.thisamericanlife.org/484/doppelgängers,Doppelgängers,We got a tip about a meat plant selling pig intestines as fake calamari and decided to investigate.
+485,https://www.thisamericanlife.org/485/surrogates,Surrogates,The proxy battle over a woman’s honor that became a presidential obsession.
+486,https://www.thisamericanlife.org/486/valentines-day,Valentine’s Day,"A couple decides to sleep with other people before they tie the knot. Plus, more stories of love making us do crazy things."
+487,https://www.thisamericanlife.org/487/harper-high-school-part-one,Harper High School - Part One,We spent five months at a high school in Chicago where in the last year 29 current and recent students were shot.
+488,https://www.thisamericanlife.org/488/harper-high-school-part-two,Harper High School - Part Two,"Part two of our program on Harper High School in Chicago, where in the last year 29 current and recent students were shot."
+489,https://www.thisamericanlife.org/489/no-coincidence-no-story,"No Coincidence, No Story!","We asked listeners to send us their best coincidence stories, and we got more than 1,300 submissions!"
+490,https://www.thisamericanlife.org/490/trends-with-benefits,Trends With Benefits,The startling rise of the number of people on disability in America.
+491,https://www.thisamericanlife.org/491/tribes,Tribes,A white guy who only wants to date Asian women has to adjust to the reality of a real actual Asian woman in his life.
+492,https://www.thisamericanlife.org/492/dr-gilmer-and-mr-hyde,Dr. Gilmer and Mr. Hyde,Did a beloved family doctor with no criminal history suddenly up and strangle his own father?
+493,https://www.thisamericanlife.org/493/picture-show,Picture Show,"Israeli soldiers take snapshots of Palestinian boys, one house at a time, in the middle of the night."
+494,https://www.thisamericanlife.org/494/hit-the-road,Hit the Road,A man decides to take a trip from Philadelphia to San Francisco—by foot.
+495,https://www.thisamericanlife.org/495/hot-in-my-backyard,Hot In My Backyard,Why has the conversation on climate change been stuck in the same place for years?
+496,https://www.thisamericanlife.org/496/when-patents-attack-part-two,When Patents Attack... Part Two!,"Why people say our patent system may be discouraging, not encouraging, innovation."
+497,https://www.thisamericanlife.org/497/this-week,This Week,All of the stories in the show are things that have taken place in the last seven days.
+498,https://www.thisamericanlife.org/498/the-one-thing-youre-not-supposed-to-do,The One Thing You're Not Supposed To Do,"People who know something's a bad idea, but convince themselves to do that thing anyway."
+499,https://www.thisamericanlife.org/499/taking-names,Taking Names,"The story of a guy named Kirk Johnson, who started a list of Iraqis who needed to get out of their country."
+500,https://www.thisamericanlife.org/500/500,500!,Ira asks the producers to talk about their very favorite moments on the show.
+501,https://www.thisamericanlife.org/501/the-view-from-in-here,The View From In Here,"An American woman suddenly trades her life for one in a place most people might think twice about: Juarez, Mexico."
+502,https://www.thisamericanlife.org/502/this-call-may-be-recorded-to-save-your-life,This Call May Be Recorded... To Save Your Life,A journalist gets a disturbing tip: a phone number to a group of refugees being held hostage in the Sinai desert.
+503,https://www.thisamericanlife.org/503/i-was-just-trying-to-help,I Was Just Trying To Help,Planet Money looks at a charity that's decided to just give people money.
+504,https://www.thisamericanlife.org/504/how-i-got-into-college,How I Got Into College,How a stolen library book got one man into his dream school and changed his life forever. Or at least that's the story he tells himself.
+505,https://www.thisamericanlife.org/505/use-only-as-directed,Use Only as Directed,"More than 150 Americans die each year on average after accidentally taking too much acetaminophen, the active ingredient in Tylenol."
+506,https://www.thisamericanlife.org/506/secret-identity,Secret Identity,A teenage girl becomes a whole new person when she becomes the school mascot — a tiger — at her high school.
+507,https://www.thisamericanlife.org/507/confessions,Confessions,What should a person suspected of murder say?
+508,https://www.thisamericanlife.org/508/superpowers-2013,Superpowers,Which is better: flight or invisibility?
+509,https://www.thisamericanlife.org/509/it-says-so-right-here,It Says So Right Here,Stories of people whose lives are altered when seemingly boring documents like birth certificates and petitions are used against them.
+510,https://www.thisamericanlife.org/510/fiasco-2013-0,Fiasco!,"Stories of when things go wrong. Really wrong. When you leave the normal realm of human error, fumble, mishap, and mistake and enter the territory of really huge breakdowns. Fiascos. Things go so awry that normal social order collapses."
+511,https://www.thisamericanlife.org/511/the-seven-things-youre-not-supposed-to-talk-about,The Seven Things You’re Not Supposed to Talk About,Sarah Koenig's mother lives by a set of rules about conversation. We tried to prove her wrong.
+512,https://www.thisamericanlife.org/512/house-rules,House Rules,The history of racial housing discrimination in the United States and what has been done—and hasn't been done—to rectify it.
+513,https://www.thisamericanlife.org/513/129-cars,129 Cars,One car dealership tries to make its monthly quota: 129 cars. It is way more chaotic than we expected.
+514,https://www.thisamericanlife.org/514/thought-that-counts,Thought That Counts,"It's the thought that counts. Unfortunately, sometimes it's not always so clear what that thought was."
+515,https://www.thisamericanlife.org/515/good-guys,Good Guys,"Stories of valiant men attempting to do good in challenging circumstances: in war zones, department stores, public buses, and at the bottom of a cave 900 feet underground."
+516,https://www.thisamericanlife.org/516/stuck-in-the-middle,Stuck In The Middle (2014),"Stories about how it sucks to be in limbo, and a man who absolutely loves listening to hold music."
+517,https://www.thisamericanlife.org/517/day-at-the-beach,Day at the Beach (2014),"David Sedaris tells us how losing a sister prompted a family reunion, and an impulse buy of an oceanfront cottage big enough for all of them."
+518,https://www.thisamericanlife.org/518/except-for-that-one-thing,Except For That One Thing,A clerical error allowed a convicted man to walk free for 13 years. Then the justice system realized its mistake.
+519,https://www.thisamericanlife.org/519/dead-men-tell-no-tales,Dead Men Tell No Tales,"Last May, the FBI killed a guy in Florida who was loosely linked to the Boston Marathon bombings."
+520,https://www.thisamericanlife.org/520/no-place-like-home,No Place Like Home,Stories of people who are coming to terms with the places they call home.
+521,https://www.thisamericanlife.org/521/bad-baby,Bad Baby,They're small. And they're cuddly. But sometimes it feels as though our babies were replaced with demon replicas.
+522,https://www.thisamericanlife.org/522/tarred-and-feathered,Tarred and Feathered,A pedophile who has never acted on his impulses starts an online support group to help himself and others like him.
+523,https://www.thisamericanlife.org/523/death-and-taxes,Death and Taxes,We ask the people who work at a hospice facility some personal questions about death and dying.
+524,https://www.thisamericanlife.org/524/i-was-so-high,I Was So High,Alex Blumberg talks to his dad about the daily pot habit he had while Alex was growing up.
+525,https://www.thisamericanlife.org/525/call-for-help,Call For Help,Stories of people coming to terms with being in serious trouble.
+526,https://www.thisamericanlife.org/526/is-that-what-i-look-like,Is That What I Look Like? (2014),A woman wakes up from a coma having forgotten that she'd divorced her husband. And Molly Ringwald watches The Breakfast Club with her daughter.
+527,https://www.thisamericanlife.org/527/180-degrees,180 Degrees,"Stories of people who go one way, and then, for what ever reason, turn around and go the exact opposite direction."
+528,https://www.thisamericanlife.org/528/the-radio-drama-episode,The Radio Drama Episode,"In our most ambitious live show, we turn journalism into a Broadway musical written by Lin-Manuel Miranda."
+529,https://www.thisamericanlife.org/529/human-spectacle,Human Spectacle 2014,A Japanese reality show contestant has to enter sweepstakes from magazines to win enough sustenance to survive.
+530,https://www.thisamericanlife.org/530/mind-your-own-business,Mind Your Own Business,A cellphone hidden in a bag of chips starts a messy turf war between the FBI and a local sheriff.
+531,https://www.thisamericanlife.org/531/got-your-back,Got Your Back,Stories where one person's powerlessness is transformed when they discover they have backup. And what happens when that backup goes away.
+532,https://www.thisamericanlife.org/532/magic-words,Magic Words,Stories where people recite words that have the power to change their lives.
+533,https://www.thisamericanlife.org/533/its-not-the-product-its-the-person,"It's Not the Product, It's the Person","Alex Blumberg tells the incredible, sweat-stains-and-all saga of a man fumbling through starting a new business. And the man is: himself."
+534,https://www.thisamericanlife.org/534/a-not-so-simple-majority,A Not-So-Simple Majority,"School board disputes are pretty common, but not like this one."
+535,https://www.thisamericanlife.org/535/origin-story-2014,Origin Story,Little-known and surprising stories of how all sorts of institutions began.
+536,https://www.thisamericanlife.org/536/the-secret-recordings-of-carmen-segarra,The Secret Recordings of Carmen Segarra,"An unprecedented look inside one of the most powerful, secretive institutions in the country."
+537,https://www.thisamericanlife.org/537/the-alibi,The Alibi,"The pilot episode of Serial, hosted by Sarah Koenig."
+538,https://www.thisamericanlife.org/538/is-this-working,Is This Working?,There's no agreement about how teachers should discipline students. And there's evidence that some of the most popular punishments may harm kids.
+539,https://www.thisamericanlife.org/539/the-leap,The Leap,"When routines get too mundane, sometimes you just have to hold your breath and jump."
+540,https://www.thisamericanlife.org/540/a-front,A Front,"If a Border Patrol agent is not actually at the border, do you have to obey him?"
+541,https://www.thisamericanlife.org/541/regrets-ive-had-a-few,"Regrets, I've Had a Few",People struggling with regrets—big and small—that take root and have to be dealt with.
+542,https://www.thisamericanlife.org/542/wait-do-you-have-the-map,Wait—Do You Have The Map?,Two brothers take a doomed road trip through Mexico. Plus other stories of feeling lost and trying to figure out how to move ahead.
+543,https://www.thisamericanlife.org/543/wake-up-now,Wake Up Now,The story of a company—or maybe it's a movement?—that has hundreds of people posting enthusiastic videos about it online.
+544,https://www.thisamericanlife.org/544/batman,Batman,Can people’s expectations change whether a blind man can see?
+545,https://www.thisamericanlife.org/545/if-you-dont-have-anything-nice-to-say-say-it-in-all-caps,"If You Don’t Have Anything Nice to Say, SAY IT IN ALL CAPS",What happens when the internet turns on you?
+546,https://www.thisamericanlife.org/546/burroughs-101,Burroughs 101,Ira Glass was never into William Burroughs. Then he heard this radio story that changed that.
+547,https://www.thisamericanlife.org/547/cops-see-it-differently-part-one,Cops See It Differently - Part One,There's a division between people who distrust the police and people who see cops as a force for good.
+548,https://www.thisamericanlife.org/548/cops-see-it-differently-part-two,Cops See It Differently - Part Two,"We look at one city where relations between police and black residents are terrible, and another city where they seem to be improving remarkably."
+549,https://www.thisamericanlife.org/549/amateur-hour,Amateur Hour,A tough group of soldiers attempts to save lives through the power of show tunes.
+550,https://www.thisamericanlife.org/550/three-miles,Three Miles,What happens when of a group of public school students in the Bronx goes to visit an elite private school three miles away.
+551,https://www.thisamericanlife.org/551/good-guys-2015,Good Guys 2015,"Stories of valiant men attempting to do good: in department stores, public buses, and at the bottom of a cave."
+552,https://www.thisamericanlife.org/552/need-to-know-basis,Need To Know Basis,"Growing up, Stephanie Foo was the favorite child of her family in Malaysia. As an adult, she found out the complicated truth about why."
+553,https://www.thisamericanlife.org/553/stuck-in-the-middle-2015,Stuck in the Middle,"People caught in limbo, using ingenuity and guile to try to get themselves out."
+554,https://www.thisamericanlife.org/554/not-it,Not It!,A mysterious world of heroin addiction treatment centers where no one seems to be taking responsibility for the people they're treating.
+555,https://www.thisamericanlife.org/555/the-incredible-rarity-of-changing-your-mind,The Incredible Rarity of Changing Your Mind,Stories of those very infrequent instances where people’s opinions flip on fundamental things that they believe.
+556,https://www.thisamericanlife.org/556/same-bed-different-dreams,"Same Bed, Different Dreams","A movie star and her ex-husband plot against Kim Jong-Il, plus more stories of people who are tied together but imagine radically different futures."
+557,https://www.thisamericanlife.org/557/birds-bees,Birds & Bees,"Stories about the vague and not-so-vague ways we teach children about race, death, and sex."
+558,https://www.thisamericanlife.org/558/game-face,Game Face,Stories of people facing very difficult situations who put their game face on and muscle through.
+559,https://www.thisamericanlife.org/559/captains-log,Captain's Log,The story of a concentration camp in China that housed groups of Girl Scouts.
+560,https://www.thisamericanlife.org/560/abdi-and-the-golden-ticket,Abdi and the Golden Ticket,A story about someone who's desperately trying – against long odds – to make it to the United States and become an American.
+561,https://www.thisamericanlife.org/561/nummi-2015,NUMMI (2015),A car plant in Fremont California that might have saved the U.S. car industry.
+562,https://www.thisamericanlife.org/562/the-problem-we-all-live-with-part-one,The Problem We All Live With - Part One,There’s one thing that has been proven to cut the achievement gap between black and white students by half: integration.
+563,https://www.thisamericanlife.org/563/the-problem-we-all-live-with-part-two,The Problem We All Live With - Part Two,A city goes all out to integrate its schools.
+564,https://www.thisamericanlife.org/564/too-soon,Too Soon?,It can be hard to know the right moment for something to happen.
+565,https://www.thisamericanlife.org/565/lower-9-10,Lower 9 + 10,We go to the Lower 9th Ward in New Orleans to talk to residents about what matters most to them ten years after the hurricane.
+566,https://www.thisamericanlife.org/566/the-land-of-make-believe,The Land of Make Believe,A father constructs an elaborate fantasy to occupy his 12 children.
+567,https://www.thisamericanlife.org/567/whats-going-on-in-there,What’s Going On In There?,Getting inside a situation and finding out just how interesting it is.
+568,https://www.thisamericanlife.org/568/human-spectacle-2015,Human Spectacle,"We've always loved to gawk at others, but what's it like when the tables are turned and all eyes are on you?"
+569,https://www.thisamericanlife.org/569/put-a-bow-on-it,Put a Bow on It,Meet the people who pitch ideas for new foods and then decide which ones they're actually going to make.
+570,https://www.thisamericanlife.org/570/the-night-in-question,The Night in Question,Conspiracy theories about the assassination of Yitzhak Rabin continue to shape Israel's politics and future.
+571,https://www.thisamericanlife.org/571/the-heart-wants-what-it-wants,The Heart Wants What It Wants,"Emily Dickinson said “The heart wants what it wants.” This week, stories from people who take that notion to extremes and are unapologetic about it."
+572,https://www.thisamericanlife.org/572/transformers,Transformers,A prisoner who hasn't talked to anyone in years comes up with a bold plan to re-introduce himself to the world.
+573,https://www.thisamericanlife.org/573/status-update,Status Update,Three teenage girls explain why they are constantly telling their friends they are beautiful on Instagram. Plus more stories about status updates that interrupt our daily life.
+574,https://www.thisamericanlife.org/574/sinatras-100th-birthday,Sinatra’s 100th Birthday,"Stories, tributes, and attempts to understand the Chairman of the Board."
+575,https://www.thisamericanlife.org/575/poetry-of-propaganda,Poetry of Propaganda,"Propaganda is complexity in the form of simplicity, if you know how to read it."
+576,https://www.thisamericanlife.org/576/say-yes-to-christmas,Say Yes To Christmas,"We go all in and bring the joy, the spontaneity, the sense that anything can happen back to Christmas."
+577,https://www.thisamericanlife.org/577/something-only-i-can-see,Something Only I Can See,A woman with muscular dystrophy tries to convince doctors that she has the same gene mutation as an Olympic athlete.
+578,https://www.thisamericanlife.org/578/i-thought-i-knew-you,I Thought I Knew You,A conservative radio host is completely baffled by the candidate his audience has decided to get behind this election season.
+579,https://www.thisamericanlife.org/579/my-damn-mind,My Damn Mind,"A hospital staffer finds a patient on the floor of his room. He is unarmed, and has been shot by the cops in the hospital."
+580,https://www.thisamericanlife.org/580/thats-one-way-to-do-it,That's One Way to Do It,The story of a young voter who defies political categorization.
+581,https://www.thisamericanlife.org/581/anatomy-of-doubt,Anatomy of Doubt,The story of a rape investigation gone undeniably wrong.
+582,https://www.thisamericanlife.org/582/when-the-beasts-come-marching-in,When the Beasts Come Marching In,The animals drop in and show us who's boss.
+583,https://www.thisamericanlife.org/583/itll-make-sense-when-youre-older,It’ll Make Sense When You’re Older,Kids do not like being told it’ll make sense when they’re older. They’re pretty sure the grown-ups are wrong.
+584,https://www.thisamericanlife.org/584/for-your-reconsideration,For Your Reconsideration,"The older and wiser we get, the more bewildering our past decisions can seem."
+585,https://www.thisamericanlife.org/585/in-defense-of-ignorance,In Defense of Ignorance,Three very different stories of people not admitting the truth.
+586,https://www.thisamericanlife.org/586/who-do-we-think-we-are,Who Do We Think We Are?,"When Mariya Karimjee was little, her family made a decision that would affect her entire life. Years later, she wants to know why."
+587,https://www.thisamericanlife.org/587/the-perils-of-intimacy,The Perils of Intimacy,Mysteries that exist in relationships we thought couldn't possibly surprise us.
+588,https://www.thisamericanlife.org/588/mind-games-2016,Mind Games,People who try simple mind games on others and find themselves in way over their heads.
+589,https://www.thisamericanlife.org/589/tell-me-im-fat,Tell Me I’m Fat,Maybe it’s time to rethink the way we see being fat.
+590,https://www.thisamericanlife.org/590/choosing-wrong,Choosing Wrong,"Stories of people making the wrong choice, even though the right one is staring them squarely in the eye."
+591,https://www.thisamericanlife.org/591/get-your-moneys-worth,Get Your Money's Worth,A political donor has to decide whether or not he's going to support Trump. Plus other stories of people trying to make sure they get what they paid for.
+592,https://www.thisamericanlife.org/592/are-we-there-yet,Are We There Yet?,"57,000 refugees are stuck in Greece, making homes in some surprising locations."
+593,https://www.thisamericanlife.org/593/dont-have-to-live-like-a-refugee,Don’t Have to Live Like a Refugee,Stories of refugees in Greece trying to move on with their lives in whatever way they can.
+594,https://www.thisamericanlife.org/594/my-summer-self,My Summer Self,Summer is a time when change seems more possible than ever. But is that really how it happens?
+595,https://www.thisamericanlife.org/595/deep-end-of-the-pool,Deep End of the Pool,What do you do when you're thrown into a situation you’re not prepared for?
+596,https://www.thisamericanlife.org/596/becoming-a-badger,Becoming a Badger,Stories about people trying their best to turn themselves into something else—like a badger.
+597,https://www.thisamericanlife.org/597/one-last-thing-before-i-go,One Last Thing Before I Go (2016),Ordinary people make last ditch efforts to get through to their loved ones.
+598,https://www.thisamericanlife.org/598/my-undesirable-talent,My Undesirable Talent,"San Francisco’s Spider-Man dropped into buildings from skylights and leapt 10 feet from one roof to another. But mostly, his talent got him into trouble."
+599,https://www.thisamericanlife.org/599/seriously,Seriously?,Watching lies become the truth in the 2016 election.
+600,https://www.thisamericanlife.org/600/will-i-know-anyone-at-this-party,Will I Know Anyone at This Party?,Right now a lot of Republicans feel like they don’t recognize their own party.
+601,https://www.thisamericanlife.org/601/master-of-her-domain-name,Master of Her Domain… Name,A story about Hillary Clinton that offers a different picture than what we’ve been hearing from both sides during the campaign.
+602,https://www.thisamericanlife.org/602/the-sun-comes-up,The Sun Comes Up,People around the country talking about the coming four years after Trump's election.
+603,https://www.thisamericanlife.org/603/once-more-with-feeling,"Once More, With Feeling",Stories of people who decide to rethink the way they’ve been doing things.
+604,https://www.thisamericanlife.org/604/20-years-later,20 Years Later,Samantha Broun interviews her mom about surviving a brutal attack 20 years ago that ended up changing Pennsylvania law regarding life sentences.
+605,https://www.thisamericanlife.org/605/kid-logic-2016,Kid Logic,"Kids using perfectly logical arguments, and arriving at perfectly wrong conclusions."
+606,https://www.thisamericanlife.org/606/just-what-i-wanted,Just What I Wanted,Stories from people who want something desperately and then have their wishes fulfilled. Or do they?
+607,https://www.thisamericanlife.org/607/didnt-we-solve-this-one,Didn’t We Solve This One?,Why has it been so hard for us to get the tens of thousands of Iraqis and Afghans that have helped the U.S. to safety?
+608,https://www.thisamericanlife.org/608/the-revolution-starts-at-noon,The Revolution Starts At Noon,Some people are super-stoked for the political changes that are coming.
+609,https://www.thisamericanlife.org/609/its-working-out-very-nicely,It’s Working Out Very Nicely,We document what happened when the President’s executive order went into effect temporarily banning travel from seven countries.
+610,https://www.thisamericanlife.org/610/grand-gesture,Grand Gesture,People going to very extreme measures to demonstrate their feelings.
+611,https://www.thisamericanlife.org/611/vague-and-confused,Vague and Confused,A show about rules and what happens when they’re vague and randomly enforced.
+612,https://www.thisamericanlife.org/612/ask-a-grown-up,Ask a Grown-Up,"Teenage girls ask for advice about their love lives, and Ira's tribute to his very grown-up friend Mary."
+613,https://www.thisamericanlife.org/613/ok-ill-do-it,"OK, I’ll Do It",A surgeon takes out his own appendix in what might be one of the most daring surgeries ever performed.
+614,https://www.thisamericanlife.org/614/the-other-mr-president,The Other Mr. President (2017),What it's actually like to live in the confusing information landscape that is Putin's Russia.
+615,https://www.thisamericanlife.org/615/the-beginning-of-now,The Beginning of Now,"Before Trump started his presidential campaign, there was a congressional race that redefined what was possible in American politics."
+616,https://www.thisamericanlife.org/616/i-am-not-a-pirate,I Am Not a Pirate,"Stories about both historical and modern-day swashbucklers who loot, pillage, and question their choices."
+617,https://www.thisamericanlife.org/617/fermis-paradox,Fermi’s Paradox,"Three people grapple with the question, “Are we alone?”"
+618,https://www.thisamericanlife.org/618/mr-lie-detector,Mr. Lie Detector,A polygraph operator and his strange journey.
+619,https://www.thisamericanlife.org/619/the-magic-show,The Magic Show,Former kid magicians Ira Glass and David Kestenbaum dive back into the world of magic.
+620,https://www.thisamericanlife.org/620/to-be-real,To Be Real,"People try to go deeper—to get to something real—in some unexpected places: war, magic, and porn."
+621,https://www.thisamericanlife.org/621/fear-and-loathing-in-homer-and-rockville,Fear and Loathing in Homer and Rockville,Two towns grapple with the question—who do we let in?
+622,https://www.thisamericanlife.org/622/who-you-gonna-call,Who You Gonna Call?,Stories of lucky people who have found the exact right person to ring up for help.
+623,https://www.thisamericanlife.org/623/we-are-in-the-future,We Are in the Future (2017),"Afrofuturism is a way of looking at black culture that’s fantastic, creative, and oddly hopeful."
+624,https://www.thisamericanlife.org/624/private-geography,Private Geography,What Betsy DeVos's experience in a public school in her hometown can tell us about her vision for education in this country.
+625,https://www.thisamericanlife.org/625/essay-b,Essay B,"In 1967, the first Black students integrated the South’s elite prep schools. One of the main reasons they were there? To benefit the white kids."
+626,https://www.thisamericanlife.org/626/white-haze,White Haze,"What should we make of right-wing groups like the Proud Boys, who believe “the West is the best”?"
+627,https://www.thisamericanlife.org/627/suitable-for-children,Suitable for Children (2017),"Neil Drumming looks back at a toy he loved that, in retrospect, probably wouldn’t love him back."
+628,https://www.thisamericanlife.org/628/in-the-shadow-of-the-city-2017,In the Shadow of the City,"Stories that take place on the edge of civilization, just out of sight."
+629,https://www.thisamericanlife.org/629/expect-delays,Expect Delays,"Stories about delays, including a town in Ohio known almost entirely for its speed trap."
+630,https://www.thisamericanlife.org/630/things-i-mean-to-know,Things I Mean to Know,Stories of people trying to unspool some of life’s certainties.
+631,https://www.thisamericanlife.org/631/so-a-monkey-and-a-horse-walk-into-a-bar,So a Monkey and a Horse Walk Into a Bar,Blurring the line between animal and human.
+374,https://www.thisamericanlife.org/374/somewhere-out-there,Somewhere Out There,"Of the billions of people in the world, what are the odds that any two people are a real match?"

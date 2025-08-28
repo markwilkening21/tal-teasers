@@ -1,0 +1,104 @@
+"""
+Project-wide configuration for the TAL teaser summarization project.
+
+Import this module from other scripts, e.g.:
+    from src import config
+    print(config.DATA_CSV)
+"""
+
+from pathlib import Path
+import os
+
+# ---- Paths ----
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR     = PROJECT_ROOT / "data"
+MODELS_DIR   = PROJECT_ROOT / "models"
+OUTPUTS_DIR  = PROJECT_ROOT / "outputs"
+
+# Main input CSV (produced by episode_scraper.py)
+DATA_CSV = DATA_DIR / "episode_summaries_full.csv"
+LINES_CSV  = DATA_DIR / "lines_clean.csv"
+MERGED_CSV = DATA_DIR / "episode_summaries_with_transcripts.csv"
+
+# fine-tuned model + tokenizer will be saved
+MODEL_OUTPUT_DIR = MODELS_DIR / "fine_tuned_summary_model_base"
+
+# Output artifacts
+GENERATIONS_CSV = OUTPUTS_DIR / "generated_vs_human_summaries_base.csv"
+ROUGE_PLOT      = OUTPUTS_DIR / "rouge_scores.png"
+BERT_PLOT       = OUTPUTS_DIR / "bert_scores.png"
+
+# ---- Model / Tokenizer ----
+MODEL_CHECKPOINT = os.getenv("MODEL_CHECKPOINT", "t5-base")
+
+# Tokenization lengths
+MAX_INPUT_LEN    = int(os.getenv("MAX_INPUT_LEN", "1024"))
+MAX_SUMMARY_LEN  = int(os.getenv("MAX_SUMMARY_LEN", "128"))
+
+# ---- Training ----
+NUM_EPOCHS                  = int(os.getenv("NUM_EPOCHS", "2"))
+TRAIN_BATCH_SIZE            = int(os.getenv("TRAIN_BATCH_SIZE", "4"))
+EVAL_BATCH_SIZE             = int(os.getenv("EVAL_BATCH_SIZE", "4"))
+GRADIENT_ACCUMULATION_STEPS = int(os.getenv("GRAD_ACCUM_STEPS", "4"))
+LEARNING_RATE               = float(os.getenv("LEARNING_RATE", "5e-5"))
+WEIGHT_DECAY                = float(os.getenv("WEIGHT_DECAY", "0.01"))
+WARMUP_RATIO                = float(os.getenv("WARMUP_RATIO", "0.1"))
+
+LOGGING_STEPS     = int(os.getenv("LOGGING_STEPS", "50"))
+SAVE_TOTAL_LIMIT  = int(os.getenv("SAVE_TOTAL_LIMIT", "2"))
+EVAL_STRATEGY     = os.getenv("EVALUATION_STRATEGY", "epoch")  # "epoch" or "steps"
+SAVE_STRATEGY     = os.getenv("SAVE_STRATEGY", "epoch")        # "epoch" or "steps"
+SEED              = int(os.getenv("SEED", "42"))
+
+# ---- Generation (inference) ----
+NUM_BEAMS              = int(os.getenv("NUM_BEAMS", "4"))
+NO_REPEAT_NGRAM_SIZE   = int(os.getenv("NO_REPEAT_NGRAM_SIZE", "3"))
+REPETITION_PENALTY     = float(os.getenv("REPETITION_PENALTY", "1.2"))
+LENGTH_PENALTY         = float(os.getenv("LENGTH_PENALTY", "1.0"))
+EARLY_STOPPING         = os.getenv("EARLY_STOPPING", "true").lower() == "true"
+
+# ---- Evaluation ----
+ROUGE_TYPES   = ("rouge1", "rouge2", "rougeLsum")
+BERTSCORE_LANG = os.getenv("BERTSCORE_LANG", "en")
+
+
+def as_dict():
+    """Convenience for printing/debugging current config."""
+    return {
+        # Paths
+        "PROJECT_ROOT": str(PROJECT_ROOT),
+        "DATA_DIR": str(DATA_DIR),
+        "MODELS_DIR": str(MODELS_DIR),
+        "OUTPUTS_DIR": str(OUTPUTS_DIR),
+        "DATA_CSV": str(DATA_CSV),
+        "MODEL_OUTPUT_DIR": str(MODEL_OUTPUT_DIR),
+        "GENERATIONS_CSV": str(GENERATIONS_CSV),
+        "ROUGE_PLOT": str(ROUGE_PLOT),
+        "BERT_PLOT": str(BERT_PLOT),
+        # Model/Tokenizer
+        "MODEL_CHECKPOINT": MODEL_CHECKPOINT,
+        "MAX_INPUT_LEN": MAX_INPUT_LEN,
+        "MAX_SUMMARY_LEN": MAX_SUMMARY_LEN,
+        # Training
+        "NUM_EPOCHS": NUM_EPOCHS,
+        "TRAIN_BATCH_SIZE": TRAIN_BATCH_SIZE,
+        "EVAL_BATCH_SIZE": EVAL_BATCH_SIZE,
+        "GRADIENT_ACCUMULATION_STEPS": GRADIENT_ACCUMULATION_STEPS,
+        "LEARNING_RATE": LEARNING_RATE,
+        "WEIGHT_DECAY": WEIGHT_DECAY,
+        "WARMUP_RATIO": WARMUP_RATIO,
+        "LOGGING_STEPS": LOGGING_STEPS,
+        "SAVE_TOTAL_LIMIT": SAVE_TOTAL_LIMIT,
+        "EVAL_STRATEGY": EVAL_STRATEGY,
+        "SAVE_STRATEGY": SAVE_STRATEGY,
+        "SEED": SEED,
+        # Generation
+        "NUM_BEAMS": NUM_BEAMS,
+        "NO_REPEAT_NGRAM_SIZE": NO_REPEAT_NGRAM_SIZE,
+        "REPETITION_PENALTY": REPETITION_PENALTY,
+        "LENGTH_PENALTY": LENGTH_PENALTY,
+        "EARLY_STOPPING": EARLY_STOPPING,
+        # Eval
+        "ROUGE_TYPES": ROUGE_TYPES,
+        "BERTSCORE_LANG": BERTSCORE_LANG,
+    }
